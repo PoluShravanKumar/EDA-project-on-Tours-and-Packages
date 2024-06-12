@@ -1,0 +1,876 @@
+,Package_Type,Duration_Days,Duration_Nights,Starting_Location,Destination_Cities,Destination_Cities_Count,Included_Activities,Hotel_Ratings,Original_Price_INR,Deal_Price_INR,Discount_Percentage
+0,Most Reasonable Goa Honeymoon,5,4,Goa,Goa ,1,Hot  Pick Water  Activities Romantic  Cruise ,2,12571,11000,12
+1,Fantastic Andaman Honeymoon,5,4,Port Blair,"Port Blair ,Havelock ",2,Corbyn's  Beach  Cove Adventure Radhanagar  Beach ,3,18811,15599,17
+2,Romantic Mussoorie Tour Package,3,2,Mussoorie,Mussoorie ,1,Sightseeing Nature Hill station Himalayas Romantic Hills ,3,12000,10500,13
+3,Coorg Package,3,2,Coorg,Coorg ,1,Coorg sightseeing Adventure Rajaâs  Seat Nature Abbey  ,3,17802,16200,9
+4,Best   Andaman Sightseeing Tour Package,5,4,Port Blair,"Port Blair ,Havelock ",2,Cellular  Jail Light &  Sound  Show Adventure ,3,36484,33200,9
+5,Mesmerising Manali Trip Package,3,2,Manali,Manali ,1,Hadimba  Temple Adventure Solang  Valley Nature ,3,10440,9500,9
+6,Hills & Houseboat: Munnar and Alleppey Honeymoon,6,5,Munnar,"Munnar ,Thekkady ,Alleppey ,Kochi ",4,  Periyar  Wildlife  Sanctuary Cruises Eravikulam  ,3,23644,21280,10
+7,Top Family Holiday Package,5,4,Calangute,Calangute ,1,Family Dolphin spotting Cruises Kid's  Special Best sellers ,3,15217,14000,8
+8,Most Affordable  ight   Uttarakhand Tour Package,2,1,Rishikesh,Rishikesh ,1,River  Rafting Hill station Adventure Nature Trekking ,2,3360,2800,17
+9,Top     Best-Selling Sikkim Gangtok arjeeling Tour Package,5,4,Gangtok,"Gangtok ,Darjeeling ",2,Best- Selling Himalaya Hill station Road  Trip ,3,22956,19233,16
+10,Best  ight  ay Leh Ladakh Tour Package,6,5,Leh,"Leh ,Nubra Valley ",2,Nature Road  Trip Adventure Campinglandscape Ideal for friends ,3,28110,21999,22
+11,Postcard-Perfect Sikkim Gangtok Lachung Honeymoon,5,4,Gangtok,"Gangtok ,Lachung ",2,Adventure Northeast Hill station Hills Nature Waterfallsshopping ,3,47253,43315,8
+12,Best Selling Kerala Houseboat & Jungle Safari Tour Package,5,4,Munnar,"Munnar ,Thekkady ,Alleppey ",3,Wildlife safari Adventure Backwaters Hill station Hills Houseboat ,3,21993,17920,19
+13,Go on an excursion to Shillong to witness the best of natural attraction,6,5,Kaziranga,"Kaziranga ,Shillong ,Guwahati ",3,Kaziranga  National  Park Adventure Elephant  Safari ,2,23563,20500,13
+14,Top     Kerala Family Tour Package,6,5,Munnar,"Munnar ,Thekkady ,Alleppey ,Kochi ",4,Pocket-friendly Cruises Scenic  Routes Hill station Private  ,3,24008,19643,18
+15,Exciting Goa Tour Package,3,2,Goa,Goa ,1,Beach vacation  Adventure Nightlife Nature Shopping Beach ,3,15615,14500,7
+16,iscover Our Beautiful     Andaman Family Tour Package,5,4,Port Blair,"Port Blair ,Havelock ",2,Watersports Beach  Vacation Light &  Sound  Show ,2,23574,18990,19
+17,    Sikkim Family Tour Package,5,4,Gangtok,"Gangtok ,Lachung ",2,Historical Himalayas Adventure Private  Transfers Hill station ,2,51262,42718,17
+18,Best Selling Shimla Honeymoon,3,2,Shimla,Shimla ,1,Adventure Hill  Station Nature Scenic  Landscapes ,2,10543,9000,15
+19,Jammu Kashmir Family Package,7,6,Katra,"Katra ,Pahalgam ,Srinagar ,Gulmarg ",4,Vaishno  Devi Nature Patnitop Religious Shikara  ,2,23630,21952,7
+20,Udaipur: More Than The Just âThe City Of Lakesâ,3,2,Udaipur,Udaipur ,1,City  Palace Maharana  Pratap  Memorial Best sellers ,2,7539,6499,14
+21,An Amazingly Romantic Honeymoon,7,6,Coorg,"Coorg ,Ooty ,Kodaikanal ",3,Sightseeing Hill station  Arrival Water  Activities Botanical  ,4,26142,23789,9
+22,Idyllic Kerala Houseboat & Hills Family Package,7,6,Munnar,"Munnar ,Thekkady ,Alleppey ,Kovalam ",4,Adventure Sightseeing Nature Family Waterfall Wildlife ,3,30249,25460,16
+23,Adventurous Family Holiday In Coorg,4,3,Coorg,"Coorg ,Mysore ",2,Sightseeing Nature Waterfalls Adventureart gallery Historical Shopping ,3,15417,14029,9
+24,Best   Ooty Honeymoon,4,3,Ooty,Ooty ,1,The  Blue  Mosque Adventure Shopping Nature ,3,16944,15250,10
+25,Charming Kashmir Honeymoon,6,5,Srinagar,"Srinagar ,Gulmarg ,Pahalgam ",3,Romantic  Stay Wildlife Unlimited adventure Adventure Houseboat  ,3,26136,23000,12
+26,Vibrant Kochi Munnar Honeymoon,4,3,Cochin,"Cochin ,Munnar ",2,Scenic views Adventure Tea gardens Hill station Marine  Drive ,3,16190,14571,10
+27,Pleasurable Meghalaya Honeymoon,7,6,Guwahati,"Guwahati ,Shillong ,Cherrapunjee ",3,Nature Temple Waterfalls Hill station Lake Historical ,3,41208,37499,9
+28,Lovely Ladakh Family Package,5,4,Leh,"Leh ,Nubra Valley ,Pangong ",3,Hill station Nubra  Valley Nature Chang  La ,2,21504,19999,7
+29,Colorful Rajasthan Family Package,9,8,Jaipur,"Jaipur ,Bikaner ,Jaisalmer ,Jodhpur ,Udaipur ",5,Historical places in  Udaipur Nature Boat  Ride Historical ,3,76404,68000,11
+30,Best Selling Leh-Ladakh Honeymoon,6,5,Leh,"Leh ,Hunder ",2,Best- Selling Adventure Nature Romantic Camping ,3,35367,27999,21
+31,Best     Himachal Family Tour Package,9,8,Shimla,"Shimla ,Manali ,Dharamshala ,Dalhousie ",4,Natural extravaganza Nature Scenic  Routes Adventure Hill station ,2,32143,30000,7
+32,"Explore arjeeling And Gangtok, The Gem Of ortheast",7,6,Gangtok,"Gangtok ,Kalimpong ,Darjeeling ",3,Family  Special Hill station Scenic roadtrip Religious Grand  ,2,80136,72122,10
+33,Exotic Andaman Honeymoon,6,5,Port Blair,"Port Blair ,Havelock ",2,Light and  Sound  Show Historical Ferry  Transfer ,2,24965,23790,5
+34,Enjoy An Island Getaway With Our Andaman Honeymoon,6,5,Port Blair,"Port Blair ,Havelock ,Neil Island ",3,Best sellers Nature Ferry  Transfer Radhanagar  Beach ,3,27472,24420,11
+35,Breathtaking Manali Tour Package,4,3,Manali,Manali ,1,Manali Adventure Solang  Valley Nature Rohtang  ,3,12637,11500,9
+36,Summer Special Manali Honeymoon,5,4,Manali,Manali ,1,Hill station Best sellers Adventure Nature Sightseeing Romantic ,3,17033,15500,9
+37,ivine Andaman Couple Tour Package,6,5,Port Blair,"Port Blair ,Havelock ,Neil Island ",3,Island  Tours Water  Activities Adventure Beaches ,4,29604,26940,9
+38,Blissful Leh Ladakh Honeymoon,5,4,Leh,Leh ,1,Bestselling Hill station Mountain  Desert Adventure Road  ,2,20453,17999,12
+39,Exotic Gangtok & arjeeling Honeymoon,5,4,Darjeeling,"Darjeeling ,Gangtok ",2,Honeymoon freebies Adventure Himalayas Nature Tea gardens Hill station ,3,52512,45663,13
+40,Spiti Tour Package,7,6,Manali,"Manali ,Kaza ,Chandra Tal ",3,Chandratal Nature Dhangkar  Monastery Historical Rohtang  ,3,33889,30500,10
+41,Fascinating Uttarakhand Honeymoon,6,5,Mussoorie,"Mussoorie ,Jim Corbett ,Nainital ",3,Kempty  Falls Adventure Gun  Hill Nature ,3,21978,20000,9
+42,Blissful Andaman Honeymoon,5,4,Port Blair,"Port Blair ,Havelock ,Neil Island ",3,Romantic Historical Nature Radhanagar  Beach Mud  ,2,18914,17338,8
+43,Idyllic Lansdowne Tour Package,2,1,Lansdowne,Lansdowne ,1,Adventure Jungle  Trail Nature Shopping Hill station ,3,4120,3749,9
+44,Port Blair Tour Package,3,2,Port Blair,Port Blair ,1,Beaches Adventure Local  Island  Tour Water  ,3,15934,14819,7
+45,Best Selling Alleppey-Munnar Kerala Weekend Tour,4,3,Munnar,"Munnar ,Alleppey ",2,Spice  Plantations Hill station Houseboat  Stay Cruises ,3,17132,13020,24
+46,Charismatic Kochi Tour Package,4,3,Kochi,"Kochi ,Munnar ",2,Waterfalls Adventure Nature Shopping Wildlife Cultural ,3,16011,14570,9
+47,Magical arjeeling & Sikkim Summer Special Honeymoon,6,5,Darjeeling,"Darjeeling ,Gangtok ,Lachung ",3,Honeymoon freebies Nature Himalayas Hill station Adventure Romantic ,3,64004,56167,12
+48,A Blissful Romantic Tour To Andaman Island,4,3,Port Blair,Port Blair ,1,Cellular  Jail  Nature North  Bay  Island ,3,17143,15600,9
+49,Mystique Andaman Honeymoon,4,3,Port Blair,"Port Blair ,Havelock ",2,Sightseeing Nature Hill station Adventure Water  Activities ,3,21945,19970,9
+50,Best Selling Weeklong Goa Tour Package,6,5,Goa,Goa ,1,Waterfalls Nature Spice plantations Adventure Historical  Sites ,3,17608,16199,8
+51,Romantic Escapade To Kashmir,6,5,Pahalgam,"Pahalgam ,Srinagar ,Gulmarg ",3,Water  Activities Night at  Houseboat Nature Shikara  ,2,21348,19000,11
+52,Extravagant Port Blair Sightseeing Tour Package,4,3,Port Blair,Port Blair ,1,Port  Blair Adventure Nature Cellular  Jail  ,3,13846,12600,9
+53,Splendid Kodaikanal Honeymoon,6,5,Ooty,"Ooty ,Kodaikanal ",2,Sightseeing Hill station  Arrival Water  Activities Nilgiri  ,4,23461,21350,9
+54,Mesmerizing Leh Ladakh Family Tour Package,5,4,Leh,Leh ,1,Ideal for families Hill station Adventure Picturesque sights Nature Grand  ,2,19779,17999,9
+55,Mesmeric Mount Abu Family Package,3,2,Mount Abu,Mount Abu ,1,Sightseeing Hill station Lakes Adventure Temples Nature ,3,4945,4500,9
+56,Adventurous Summer Special Ladakh Honeymoon,5,4,Leh,Leh ,1,Mountain  Desert Adventure Nature Road  Trip ,2,22221,19999,10
+57,Best   Ooty Tour Package,2,1,Ooty,Ooty ,1,Sightseeing Nature City  Tour Hill station Jungle  ,3,9384,8539,9
+58,Srinagar Sonmarg Pahalgam Gulmarg Tour Package,5,4,Srinagar,Srinagar ,1,Lidder  River Nature Gondola  Ride Adventure ,4,28151,26180,7
+59,Luxurious Honeymoon,4,3,Manali,Manali ,1,Adventure Nature Hill station Sightseeing Budget,2,9011,8200,9
+60,Ecstatic Shimla  ight  ay Tour Package,5,4,Shimla,Shimla ,1,Sightseeing Nature Overnight  Journey Wildlife Horse/ ,3,14205,12500,12
+61,Best Selling Ladakh   Package,4,3,Leh,Leh ,1,Shanti  Stupa Hall of  Fame Magnetic  Hilllandscape ,3,20429,18999,7
+62,An Adventurous Family Trip To Jim Corbett ational Park,2,1,Jim Corbett,Jim Corbett ,1,Jungle  Safari Adventure Local sightseeing Wildlife Family ,4,7933,7219,9
+63,Mesmerizing Getaway To Kochi,2,1,Kochi,Kochi ,1,Scenerylandscape Sightseeing Leisure  Time Nature Adventure ,3,4593,4180,9
+64,Best-Ranked Gangtok Tour Package,2,1,Gangtok,Gangtok ,1,Ganesh  Tok Nature Flower  Show Adventureshopping ,3,20619,19176,7
+65,Mesmerising Lansdowne Tour Package,3,2,Lansdowne,Lansdowne ,1,Sightseeing Adventure Nature Boating Hill station Religious ,3,17308,15750,9
+66,Gangtok Family Package,3,2,Gangtok,Gangtok ,1,Waterfalls Nature Lakes Adventure Sightseeing Family ,2,19163,18013,6
+67,Kerala Wayanad Weekend Holiday,3,2,Wayanad,Wayanad ,1,Nature Waterfall Hills Weekend  Getaway Hill station ,3,8253,7840,5
+68,A Goa Tour Full of Fun n Frolic,4,3,Goa,Goa ,1,Sightseeing Beach Leisure  Day Adventure Water  ,3,12637,11500,9
+69,Charming Kashmir Sightseeing Tour Package,8,7,Srinagar,"Srinagar ,Pahalgam ,Gulmarg ",3,Nature Adventure Hill station Lake Budget,2,30769,28000,9
+70,Astonishing Pelling Honeymoon,3,2,Pelling,Pelling ,1,Ideal for couples Adventure Khecheopalri  Lake Religious Rimbi  ,3,12086,11119,8
+71,Magical Manali Honeymoon,3,2,Manali,Manali ,1,Hills Adventure Rohtang  Pass Hill station Nature ,2,9808,7500,24
+72,Amazing Andaman Tour Package,6,5,Port Blair,"Port Blair ,Havelock Island ,Neil Island ",3,Nature Water  Activities Radhanagar  Beach Cellular  ,3,19216,18163,5
+73,Mahabaleshwar Package,2,1,Mahabaleshwar,Mahabaleshwar ,1,Sightseeing Adventure Temples Nature Local market Waterfall ,3,6769,6160,9
+74,"Gangtok, Lachung & arjeeling Summer Special Tour: The orth Eastern Bliss ",7,6,Gangtok,"Gangtok ,Lachen ,Lachung ,Darjeeling ",4,Hot  Pick Adventure Pocket-friendly Nature Nature walks ,3,67710,62399,8
+75,Trip To Mesmerising Munnar ,4,3,Munnar,"Munnar ,Alleppey ",2,Scenic views Hill station Tea plantations Shopping Nature Waterfall ,3,16011,14570,9
+76,Best Selling Kerala Honeymoon,5,4,Munnar,"Munnar ,Thekkady ,Alleppey ",3,Houseboat  Stay Adventure Jeep  Safari Hill station ,3,24920,17920,28
+77,Rajasthan Tour Package,3,2,Udaipur,Udaipur ,1,Lake Adventure Temple Historical Scenic  Beauty ,3,12903,12000,7
+78,Best     Kodaikanal Tour Exclusive Package,3,2,Kodaikanal,Kodaikanal ,1,Sightseeing Nature Lakeview Adventure Waterfalls Hill station ,3,12736,11590,9
+79,"Exhilarating Gangtok, Kalimpong and arjeeling Trip in Summer",6,5,Gangtok,"Gangtok ,Kalimpong ,Darjeeling ",3,Tsomgo  Lake Nature Baba  Mandir Adventure ,2,33362,29692,11
+80,Ooty Package,3,2,Ooty,Ooty ,1,Tea  Factory Nature Coonoor Hill station Mysore  ,3,12736,11590,9
+81,Marvelous Honeymoon,5,4,Leh,"Leh ,Nubra Valley ,Pangong ",3,Monasteries Temple Nature Camping Hill station Historical ,3,25274,22999,9
+82,Exciting Rajasthan Tour Package,2,1,Ranthambore,Ranthambore ,1,Sightseeing Nature Wildlife safari Historical Adventure Tigers ,3,8680,7899,9
+83,Check Out Our Top-rated Andaman Itinerary For   For A Soulful Vacay,4,3,Port Blair,"Port Blair ,Havelock ",2,Port  Blair Adventure Cellular  Jail Nature ,3,18462,16800,9
+84,Goa Tour Package,4,3,Goa,Goa ,1,Adventure Water  Activities Beach Budget,3,22580,20999,7
+85,A Romantic Joyride With The Best Lonavala Honeymoon,3,2,Lonavala,Lonavala ,1,Caves Hill station Hills Nature Lake Romantic ,3,21153,19249,9
+86,Best-Selling Rishikesh Uttarakhand Tours For A Refreshing Getaway,2,1,Rishikesh,Rishikesh ,1,Hill station Adventure Nature Water  Activities Trekking ,2,4332,3938,9
+87,Fascinating Manali Tour Package,4,3,Manali,Manali ,1,Solang  Valley Nature Rohtang  Pass Water  ,3,10989,10000,9
+88,Resounding Rajasthan Family Package,3,2,Jaisalmer,Jaisalmer ,1,Gadisar  Lake Nature Camel  Safari Historical ,3,8240,7498,9
+89,Most Popular ortheast Honeymoon,5,4,Shillong,"Shillong ,Mawlynnong ,Guwahati ",3,Ideal for couples Hill station  Picturesque  Lakes Historical Natural  ,2,17777,15999,10
+90,Catch The Beauty Of The Setting Sun In Alleppey,2,1,Alleppey,Alleppey ,1,Cruise along the backwaters  Adventure Leisure  Day Cruises Houseboat  ,3,4922,4479,9
+91, ight   Romantic Ooty Getaway For An Unforgettable Experience,2,1,Ooty,Ooty ,1,Tea gardens Adventure Doddabetta  Peak Nature Mudumalai  ,3,10054,9149,9
+92,Adventure Packed Rishikesh Tour Package,2,1,Rishikesh,Rishikesh ,1,Adventure  Activities Adventure Camping Water  Activities ,3,4395,3999,9
+93,Best Selling Ooty Mysore Tour Package,4,3,Ooty,Ooty ,1,Mysore  Palace Group package Tea  Estate Sightseeing ,3,14556,12809,12
+94,Lovely orth East Family Package,5,4,Shillong,"Shillong ,Guwahati ",2,Umiam  Lake Cruises  Mawlynnong  Village Religious ,2,18131,16499,9
+95,Charming Alleppey Honeymoon,3,2,Alleppey,Alleppey ,1,Alleppey Hill station Beaches Cruises Backwaters Nature ,3,8615,7840,9
+96,Best Selling Leh Ladakh     Package,7,6,Srinagar,"Srinagar ,Kargil ,Leh ,Nubra Valley ",4,Nature Himalayas Adventure Road  Trip Sightseeing ,3,42352,39999,6
+97,Splendid Jaisalmer Tour Package,3,2,Jaisalmer,Jaisalmer ,1,Sightseeing Historical Adventurelandscape Sand  Dunes Budget,3,8152,7500,8
+98,A Blissful Tour In Munnar,3,2,Munnar,Munnar ,1,Sightseeing Hill station Adventure  Activities Adventure Photo  ,3,9844,8958,9
+99,"Goa Is All About Sand, Sun, And Sea",3,2,Goa,Goa ,1,Sightseeing Nature Fort  Aguada Adventure Calangute  ,3,7692,7000,9
+100,Blissful orth East Honeymoon,6,5,Guwahati,"Guwahati ,Shillong ,Cherrapunjee ,Mawlynnong ",4,Ideal for couples Historical Picturesque landscape Nature Living root bridges Hill station ,2,22282,20499,8
+101,Best-Selling Goa Trip Package,4,3,Goa,Goa ,1,Adventure Nature Water  Activities Paraglidingskiing Budget,3,10869,9999,8
+102,Glorious Goa Tour Package,3,2,Calangute,Calangute ,1,Calangute  Beach Cruises Fort  Aguada Historical ,3,7608,6999,8
+103,Splendid Himachal Honeymoon,4,3,Manali,Manali ,1,Temples Religious Hot  Springs Wildlife Himalayas ,2,9091,8000,12
+104,Stimulating Rajasthan Tour Package,4,3,Ranthambore,"Ranthambore ,Pushkar ",2,Ranthambore  National  Park Wildlife Pushkar  Brahma  ,3,9090,7999,12
+105,Fantastic Summer Special Trip To Manali,4,3,Manali,Manali ,1,Sightseeing Nature Adventure Hill station Skiing Romantic ,3,13187,12000,9
+106,Incredible Kashmir Honeymoon,5,4,Srinagar,"Srinagar ,Pahalgam ,Gulmarg ",3,Ideal for couples Nature Picturesque landscape Best sellers Shikara  Ride ,2,18564,15000,19
+107,Astounding Kasol Tour Package,4,3,Kasol,"Kasol ,Kheerganga ",2,Kasol  Trip Adventure Beach Kheerganga top Manikaran  ,3,17778,16000,10
+108,Explore The Himalayan Highlands Of Manali With Our Family Package,4,3,Manali,Manali ,1,Himalayas Adventure Sightseeing Hill station Nature Religious ,4,14286,13000,9
+109,"Exploring Godâs Own Country, Kerala",3,2,Munnar,"Munnar ,Alleppey ",2,Adventure Sightseeing Nature Hill station Houseboat  Stay ,3,10102,9092,10
+110,Magnificent Leh Sightseeing Tour Package,6,5,Leh,"Leh ,Nubra Valley ",2,Shanti  Stupa Adventure Tibetan  Monasteries Nature ,3,26373,23999,9
+111,Scintillating Honeymoon,5,4,Leh,"Leh ,Pangong ",2,Shanti  Stupa Pangong  Tso Nature Khardung  ,3,21110,18999,10
+112,Reasonable Munnar Thekkady Alleppey Honeymoon,4,3,Munnar,"Munnar ,Thekkady ,Alleppey ",3,Cruises Waterfalls Nature Jungle  Safari Romantic ,3,15909,14000,12
+113,Picturesque alhousie Honeymoon,3,2,Dalhousie,Dalhousie ,1,Mini  Switzerland Adventure Khajjiar Nature Chamba ,3,17778,16000,10
+114,Most Picked Kullu Manali Rohtang Pass Package,4,3,Manali,Manali ,1,Scenic  Landscapes Nature Adventure Hill station Sightseeing ,3,11957,11000,8
+115,Ecstatic Athirapally Tour Package,8,7,Athirapally,"Athirapally ,Munnar ,Alleppey ,Kovalam ,Trivandrum ",5,Athirapally waterfalls Nature Munnar Hill station Alleppey Sightseeing ,3,30904,28123,9
+116,Best-Selling Sightseeing Vacation To Gangtok,4,3,Gangtok,Gangtok ,1,Gangtok Adventure City  Tour Nature Local sightseeing ,2,14531,13223,9
+117,Best Selling Lansdowne Tour For A Refreshing Getaway In ,2,1,Lansdowne,Lansdowne ,1,Gandhi  Chowk Hill station Shatabdi  Dwar Nature ,3,6416,5774,10
+118,o ham Yatra Package,8,7,Haridwar,"Haridwar ,Sitapur ,Badrinath ,Pipalkoti ",4,Sightseeing Trekking Hill station Hot  Springs Religious ,2,14914,13124,12
+119,Blissful  Badrinath Tour Package,4,3,Haridwar,"Haridwar ,Badrinath ,Rudraprayag ",3,Sightseeing Nature Hot  Springs Hill station Temples  ,2,10842,9975,8
+120,Ooty Package,4,3,Ooty,Ooty ,1,Mudumalai  National  Park Nature Coonoor Hill station ,3,15417,14029,9
+121,Gorgeous Goa Tour Package,4,3,Goa,Goa ,1,Adventure Nature Seafood Water  Activities Shopping ,3,10989,10000,9
+122,Best     Himachal Honeymoon,8,7,Shimla,"Shimla ,Manali ,Dharamshala ,Dalhousie ",4,Romantic Nature Best sellers Road  Trip Adventure ,2,26914,23550,12
+123,Mesmerizing Kerala Holiday: Weekend in Munnar & Thekkady,4,3,Munnar,"Munnar ,Thekkady ",2,Hills Adventure Jungle  Safari Nature Wildlife ,3,18434,13167,29
+124,Admire The Enchanting And Spellbinding Places In Sikkim,7,6,Gangtok,"Gangtok ,Lachen ,Lachung ,Darjeeling ",4,Romantic Adventure Offbeat Nature Waterfalls Hill station ,3,69497,63217,9
+125,iscover Our Ravishing     Rajasthan Vacation,4,3,Jodhpur,"Jodhpur ,Jaisalmer ",2,Mehrangarh  Fort Nature Camel  Safari Historical ,3,11235,9999,11
+126, Soulful arjeeling Gangtok Sikkim Honeymoon,5,4,Gangtok,"Gangtok ,Darjeeling ",2,Leisure  Day Wildlife Do  Drul  Chorten ,2,44285,39414,11
+127,arjeeling Family Package,3,2,Darjeeling,Darjeeling ,1,Tea  Estate Adventure Tiger  Hill Nature ,3,10229,9513,7
+128,    Paradisiacal Himachal Family Package,4,3,Manali,Manali ,1,Hill station Nature Family Road journey Visit to  Temples and  ,2,9091,8000,12
+129,Captivating Thekkady Honeymoon,5,4,Kumarakom,"Kumarakom ,Thekkady ,Munnar ",3,Ideal for  Couples Water  Activities Adventure Houseboat ,3,17360,15624,10
+130,A Surreal Escape To Mesmerising estinations,4,3,Munnar,"Munnar ,Alleppey ",2,Romantic Hill station Hills Cruises Waterfalls Adventure ,3,16269,12880,21
+131,A Memorable Honeymoon,6,5,Jaipur,"Jaipur ,Pushkar ,Ranthambore ",3,Chokhi  Dhani Adventure Birla  Temple Nature ,4,21976,19998,9
+132,Himachal Honeymoon,6,5,Manali,"Manali ,Shimla ",2,Rohtang  Pass Sightseeing Adventure Best sellers Hill station ,2,24307,21000,14
+133,Visit Kerala And See Astounding Places,4,3,Munnar,"Munnar ,Thekkady ,Kochi ",3,Natural  Beauty Tea  Garden Spice  Garden ,3,13213,11760,11
+134,Goa Package,3,2,Goa,Goa ,1,Dudhsagar  Waterfalls Adventure Jeep  Safari Nature ,3,7692,7000,9
+135,Best Selling Himachal Honeymoon,6,5,Shimla,"Shimla ,Manali ",2,Best- Selling Romantic Nature Best sellers Adventure ,2,17500,14000,20
+136,Best-Selling Ooty Honeymoon,3,2,Ooty,Ooty ,1,Ideal for  Couples Adventure Sightseeing Nature City  ,3,14076,12809,9
+137,Best Selling Kashmir Honeymoon,6,5,Srinagar,"Srinagar ,Pahalgam ,Gulmarg ",3,Night at  Houseboat Best sellers Shankaracharya Romantic Nature ,2,21452,19000,11
+138,Best-Selling   Rajasthan Tour Package,7,6,Jaipur,"Jaipur ,Bikaner ,Jaisalmer ,Jodhpur ",4,Hawa  Mahal Nature Adventure Desert  Camp ,3,57142,51999,9
+139,Adventure-Loaded Rishikesh Tour Package,2,1,Rishikesh,Rishikesh ,1,Adventure Nature Watersports Water  Activities Himalayas ,3,11667,10500,10
+140, ight   Lonavala Package,2,1,Lonavala,Lonavala ,1,Local sightseeing Adventure Caves Nature Historical,4,10879,9900,9
+141,Best Selling Kashmir Family Package,5,4,Srinagar,"Srinagar ,Gulmarg ",2,Family Gondola  Ride Hill station Shikara  Ride ,2,16485,15000,9
+142,Trip To Captivating Coorg,3,2,Coorg,Coorg ,1,Shopping Adventure Sightseeing Nature Leisure  Time ,2,11395,10369,9
+143,Exhilarating Andaman Tour Package,5,4,Port Blair,"Port Blair ,Havelock ",2,Port  Blair Adventure Cellular  Jail Nature ,4,37041,33707,9
+144,Best Selling Holiday Tour Package,2,1,Coorg,Coorg ,1,Sightseeing Nature Waterfalls Hill station Camping Adventure ,2,8714,7930,9
+145,Exclusive Kerala Munnar Tour Package,3,2,Munnar,Munnar ,1,Weekend  Getaway Wildlife Hills Hill station Tea gardens ,3,12792,7840,39
+146,Super Romantic Coorg Honeymoon,5,4,Coorg,"Coorg ,Ooty ",2,Dubare  Reserve  Forest Adventure Waterfalls Nature ,2,16758,15250,9
+147,Goa Honeymoon,6,5,Goa,Goa ,1,Nature Adventure Water  Activities Budget,3,34482,29900,13
+148,Beachside Romance: Goa Honeymoon,4,3,Calangute,Calangute ,1,Beach  Vacation Cruises Shopping Adventure Nature ,2,32502,27600,15
+149,A elightful Trip To elhi,3,2,New Delhi,New Delhi ,1,Red  Fort Historical Akshardham  Temple Sightseeing ,3,7142,6499,9
+150,Charismatic     Kashmir Tour Package,4,3,Srinagar,Srinagar ,1,Shikara  Ride Nature Martand  Temple Hill station ,2,11950,10527,12
+151,An Utterly Ravishing Rajasthan Tour Package,3,2,Ranthambore,Ranthambore ,1,Wildlife safari Historical Long  Drive National  Park ,3,11757,10699,9
+152,Best Selling Meghalaya Tour Package,5,4,Shillong,"Shillong ,Cherrapunjee ,Guwahati ",3,Sightseeing Ayurvedic Hill station Lakes Adventure Waterfalls  ,3,26923,24500,9
+153,Mesmerizing Uttarakhand Summer Special Family Package,4,3,Mussoorie,"Mussoorie ,Dhanaulti ",2,Kempty  Falls Adventure Eco  Parks Hill station ,3,39663,36093,9
+154,Amazing Auli Honeymoon,3,2,Auli,Auli ,1,Devprayag Adventure Skiing Best sellers Auli lake Nature ,3,10000,9000,10
+155,Exciting Athirapally Tour Package,7,6,Cochin,"Cochin ,Munnar ,Thekkady ,Alleppey ",4,Sightseeing Trekking Waterfalls Adventure Eravikulam  National  ,3,27560,25080,9
+156,Bestselling Leh Ladakh Tour Package,8,7,Leh,"Leh ,Nubra Valley ,Kargil ,Srinagar ",4,Best- Selling Nature Mountain  Desert Adventure ,3,47999,44999,6
+157,Ecstatic Athirapally Honeymoon,7,6,Cochin,"Cochin ,Munnar ,Thekkady ,Alleppey ",4,Cruises Wildlife Hill station Tea  Gardens Nature ,3,33221,29567,11
+158,Goa Honeymoon,7,6,Goa,Goa ,1,Dudhsagar waterfalls Water  Activities Anjuna  Beach Adventure ,5,40217,37000,8
+159,Spellbinding Cochin Family Tour Package,2,1,Cochin,Cochin ,1,Nature Adventure Unlimited  Funshopping City  Tourmuseums ,3,5091,4480,12
+160,Relax And Recharge At Chikmagalur,2,1,Chikmagalur,Chikmagalur ,1,Hills Nature Valleys Adventure Waterfalls Hill station ,2,9379,8722,7
+161,Blissful Kerala Honeymoon,7,6,Munnar,"Munnar ,Thekkady ,Alleppey ,Kovalam ",4,Romantic Adventure Houseboat  Stay Wildlife Beach  ,3,28416,23999,16
+162,Spritual Char ham Yatra Package,11,10,Haridwar,"Haridwar ,Barkot ,Uttarkashi ,Sitapur ,Badrinath ",5,Sightseeing Trekking Hill station Temples  Tour Religious ,2,38181,33599,12
+163,iscover Our Coorg Tour Package,4,3,Coorg,"Coorg ,Mysore ",2,Dubare  Reserve  Forest Nature Abbey  Falls ,3,14233,12810,10
+164,iscover Our Exquisite     Mussoorie Honeymoon,6,5,Mussoorie,"Mussoorie ,Jim Corbett ,Nainital ",3,Sightseeing Adventure Road  Trip Nature Kempty  ,3,24444,22000,10
+165,alhousie haramshala Himachal Honeymoon,4,3,Dalhousie,"Dalhousie ,Dharamshala ",2,Romantic Nature Hills Hill station Monastery  Tour ,2,23294,18000,23
+166,Tirupati Temple: A Sacred Pilgrimage,2,1,Tirupati,Tirupati ,1,Religious  Tour Religious Temples Historical Nature ,2,8847,8051,9
+167,Charismatic Kashmir Tour Package,3,2,Srinagar,Srinagar ,1,Dal  Lake Hill station Shikara  Ride Adventure ,3,15000,13500,10
+168,Exciting Sikkim Sightseeing Tour Package,5,4,Gangtok,"Gangtok ,Darjeeling ",2,Local sightseeing Nature Leisure  Day Wildlife Gangtok ,2,36116,32866,9
+169,Lovely Coorg Honeymoon,2,1,Coorg,Coorg ,1,Talakaveri Nature Bhagamandala Hill station Dubare  Reserve  ,3,11395,10369,9
+170,Best Selling   Alleppey Honeymoon,2,1,Alleppey,Alleppey ,1,Houseboat Water  Activities Honeymoon Cruises Romantic getaway ,3,5274,4799,9
+171,Special Udaipur Honeymoon,4,3,Udaipur,Udaipur ,1,Architectural wonders Adventure Handicrafts Nature Hill station Romantic ,3,11111,10000,10
+172,Book Our Himachal Honeymoon,4,3,Shimla,"Shimla ,Manali ",2,Adventure Rafting Nature Paragliding Hill station Private  ,2,17009,13800,19
+173,haramshala Mcleodganj alhousie Tour Package,5,4,Mcleodganj,"Mcleodganj ,Dalhousie ",2,Museum Adventure Temple Nature Natural  Beauty ,3,14130,13000,8
+174,Explore The Beautiful Karnataka,6,5,Ootacamund," Ootacamund ,Coorg ,Mysore ",3,Tea  Factory Adventure Sightseeing Hill station Doddabetta  ,3,23044,20740,10
+175,Refreshing Uttarakhand Family Package,8,7,Haridwar,"Haridwar ,Mussoorie ,Ranikhet ,Kausani ,Nainital ",5,Himalayas Nature Hill station Temples Family Lakes ,3,30244,27824,8
+176,Heavenly Kashmir Honeymoon,6,5,Srinagar,"Srinagar ,Gulmarg ,Pahalgam ",3,Houseboat  Stay Nature Gondola  Ride Hill station ,2,20000,18000,10
+177,azzling Goa Tour Package,4,3,Candolim,Candolim ,1,Basilica of  Bom  Jesus Cruises Calangute  Beach ,3,11235,9999,11
+178,Action-Packed Mussoorie Family Package,5,4,Mussoorie,"Mussoorie ,Rishikesh ,Haridwar ",3,Historical  Sightseeing Nature Moti  Bazar Hill station ,3,23077,21000,9
+179,"Idyllic Sikkim, Gangtok & arjeeling Family Package",6,5,Darjeeling,"Darjeeling ,Gangtok ,Lachung ",3,Adventure Historical Hill  Station Road  Trip ,3,60211,54477,10
+180,A Family Vacation In Beautiful Goa,3,2,Goa,Goa ,1,Sightseeing Adventure Cruise Nature Basilica of  Bom  ,3,9340,8499,9
+181,Summer Honeymoon,6,5,Goa,Goa ,1,Leisure Nature Dudhsagar  Waterfalls Water  Activities ,3,46428,37500,19
+182,An Intimate Rendezvous in Athirapally,8,7,Vaikom,"Vaikom ,Alleppey ,Thekkady ,Athirapally ,Cherai ",5,Sightseeing Hill station Kumarakom backwaters Wildlife Boating Nature ,3,30667,27600,10
+183,elightful Athirapally Tour Package,2,1,Athirapally,Athirapally ,1,Nature Religious Hiking Budget,3,5274,4799,9
+184,Most Exciting Auli   Package,3,2,Auli,Auli ,1,Adventure Cable  Car Hill station Scenic view Sightseeing ,3,12097,11250,7
+185,iscover The Gems Of Leh Tour Package,5,4,Leh,"Leh ,Nubra Valley ,Pangong ",3,Mountain  Range Adventure Monasteries Nature Local  ,3,25274,22999,9
+186,Best-Selling Auli Honeymoon,4,3,Auli,Auli ,1,Water  Activities Adventure Snow-capped mountains Nature Hill station ,3,14444,13000,10
+187,Simply Kashmir Tour Package,4,3,Srinagar,"Srinagar ,Gulmarg ",2,Shikara  Ride Best sellers Gondola  Ride Nature ,2,16258,14000,14
+188,Best Chikmagalur Sightseeing Tour Package,3,2,Chikmagalur,Chikmagalur ,1,Wildlife safari Adventure River  Rafting Nature Paraglidingtemples ,3,12535,11407,9
+189,Jubilant Jaipur Sightseeing Tour Package,3,2,Jaipur,Jaipur ,1,Adventure Nature Historical Cultural Sightseeing Budget,2,6593,6000,9
+190,Spectacular Pachmarhi Tours,3,2,Pachmarhi,Pachmarhi ,1,Sightseeing Nature City  Tour Historical Adventure ,3,12307,11199,9
+191,Explore The Wilders Aspects Of Himachal,3,2,Dalhousie,Dalhousie ,1,Romantic  Stay Adventure Scenic  Landscapes Nature ,2,14667,12000,18
+192,Fascinating Auli Honeymoon,8,7,Dehradun,"Dehradun ,Auli ,Mussoorie ,Dhanaulti ",4,Himalayas Nature Hill station Waterfalls Religious Temples ,3,33833,30450,10
+193,Offbeat Leh Ladakh Tour Package,6,5,Leh,"Leh ,Nubra Valley ,Turtuk Village ",3,Offbeat Nature Turtuk Adventure Indo- Pak  ,3,26803,25999,3
+194,Magical Kashmir Honeymoon,7,6,Srinagar,"Srinagar ,Pahalgam ,Gulmarg ",3,Shikara  Ride Hill station Romantic Nature Betaab  ,2,23812,22000,8
+195,Exciting Rishikesh Tour Package,3,2,Rishikesh,"Rishikesh ,Mussoorie ",2,Sightseeing Adventure Nature Gun  Hill Hill station ,3,16587,15094,9
+196,Book This Popular Coorg Tour Package,7,6,Coorg,"Coorg ,Ooty ,Kodaikanal ",3,Tea  Estate Nature Hills Hill station Adventure ,3,26142,23789,9
+197,Best     Himachal Family Tour Package,10,9,Shimla,"Shimla ,Manali ,Dharamshala ,Dalhousie ,Amritsar ",5,Road  Trip Adventure Scenic  Routes Nature ,2,38989,36500,6
+198,Best Budgeted Munnar Alleppey Tour Package,3,2,Munnar,"Munnar ,Alleppey ",2,Nature Cruises Adventure Sightseeing Canal  Cruise ,3,9438,8400,11
+199,Top Auli Holiday Package,3,2,Auli,Auli ,1,Devprayag Adventure Maa  Dhari  Devi  Temple ,3,13889,12500,10
+200,Alluring Assam Tour Package,2,1,Guwahati,Guwahati ,1,Ideal for friends Nature Culturaltemples Wildlife Sightseeing Budget,3,9890,9000,9
+201,Scenic Kerala Family Trip,9,8,Kochi,"Kochi ,Munnar ,Thekkady ,Alleppey ,Kumarakom ,Kovalam ,Kanyakumari ,Trivandrum ",8,Hills Wildlife Tea  Garden Adventure Jungle  ,3,38212,33228,13
+202,Economical Wayanad Tour Package,3,2,Calicut,"Calicut ,Wayanad ",2,Beaches Hill station Temple Religious Museum Waterfall ,3,9031,8399,7
+203,Best-Selling Rishikesh And Haridwar Tour Package,3,2,Rishikesh,"Rishikesh ,Haridwar ",2,Ganga  Aarti Adventure Har ki  Pauri Nature ,3,8653,7874,9
+204,elightful Udaipur Sightseeing Tour Package,5,4,Udaipur,Udaipur ,1,Lake  Pichola Adventure Jagdish  Temple Nature ,3,15384,13999,9
+205,Charming Kashmir Honeymoon,8,7,Srinagar,"Srinagar ,Pahalgam ,Gulmarg ",3,Hill station Betaab  Valley Nature Strawberry  Field ,2,24566,22000,10
+206,Best of Jammu Kashmir Summer Special Tour Package,8,7,Katra,"Katra ,Pahalgam ,Srinagar ,Gulmarg ",4,Vaishno  Devi Nature Patnitop Hill station Shikara  ,3,32520,30000,8
+207,Best-Selling Goa Tour Package,4,3,Goa,Goa ,1,Temples Adventure Churches Nature Shopping Water  ,4,12637,11500,9
+208,Manali-Kasol Tour Package,4,3,Manali,"Manali ,Kasol ",2,Adventure Offbeat Nature Ideal for friends Sightseeing Budget,2,12688,10500,17
+209,Exciting Jaipur Udaipur Family Tour Package,5,4,Jaipur,"Jaipur ,Udaipur ",2,Ideal for families Adventure Sightseeing Religious Nature Historical ,3,15384,13999,9
+210,Pocket-Friendly  ight   Package,3,2,Mumbai,Mumbai ,1,National  Monument Adventure Museums Historical Marine  ,4,18924,17599,7
+211,Amazing Udaipur Honeymoon,4,3,Udaipur,"Udaipur ,Mount Abu ",2,City  Tour Nature Lake  Pichola Water  ,3,13186,11999,9
+212,Wondrous Pelling Tour Package,3,2,Pelling,Pelling ,1,Sightseeing Nature Hill station Hills Lakeslandscape Budget,3,23063,20757,10
+213,Check Out arjeeling Holiday Tour Package,3,2,Darjeeling,Darjeeling ,1,Scenic landscape Wildlife Grand  Himalayas Hill station Kanchenjunga  ,2,25619,22545,12
+214,Fun-Packed Goa Weekend Holiday: South Goa & Beaches,3,2,Goa,Goa ,1,Shopping Cruises Beach hopping Historical Weekend  Special ,3,17255,14999,13
+215,Affordable Mumbai   Tour Package,2,1,Mumbai,Mumbai ,1,Marine  Drive Nature Beach Adventure Museum ,4,10879,9900,9
+216,Goa Package,6,5,Calangute,Calangute ,1,Hot  Pick Adventure Honeymoon freebies Nature Nightlife ,2,32857,28750,12
+217,Enchanting arjeeling Tour Package,4,3,Darjeeling,Darjeeling ,1,Adventure Tea gardens Mt.  Kanchendzonga Nature Ghoom  ,2,16630,14967,10
+218,Most-Picked Karnataka Tour Package,3,2,Coorg,Coorg ,1,Talakaveri Adventure Talacauvery  Nature Abbey  Falls ,3,15417,14029,9
+219,Phenomenal elhi Tour Package,3,2,New Delhi,New Delhi ,1,Sightseeing Qutub  Minar Historical Templesshopping Budget,3,4395,3999,9
+220,Wholesome Rameshwaram Tour Package,5,4,Madurai,"Madurai ,Rameshwaram ,Kanyakumari ",3,Temple visit Road  Trip Nature Rameshwaram  Temple ,4,18098,16469,9
+221,Spectacular Shillong Tour For A Refreshing Getaway With Loved Ones,3,2,Shillong,Shillong ,1,Waterfalls Water  Activities Temple Adventure Nature ,3,12637,11500,9
+222,Stunning Auli Tour Package,4,3,Auli,Auli ,1,Devprayag Nature Auli lake Hill station Adventure Sightseeing ,3,14285,12999,9
+223,Explore The Most Awesome estinations Of Rajasthan,11,10,Jaipur,"Jaipur ,Mandawa ,Bikaner ,Jaisalmer ,Jodhpur ,Udaipur ,Pushkar ",7,Amer  Fort Best sellers Hawa  Mahal Historical ,2,42684,37999,11
+224,Goa Adventure Package,5,4,Calangute,"Calangute ,Goa ",2,Offbeat Trekking Jeep  Safari Water  Activities ,3,28922,22999,20
+225,Best Selling Shirdi Tour for a Spiritual Getaway,2,1,Shirdi,Shirdi ,1,Temple Religious Sightseeing Nature City  Tour ,3,6285,5719,9
+226,Fun & Frolic Kodaikanal Ooty Tour Package,6,5,Ootacamund," Ootacamund ,Kodaikanal ,Kodai ",3,Wildlife Lakes Hills Lakes &  Waterfalls Wildlife safari ,3,23461,21350,9
+227,Exciting Jim Corbett ational Park Tour Package,2,1,Jim Corbett,Jim Corbett ,1,Sightseeing Wildlife Adventure Nature Jungle  Safari,4,5538,5040,9
+228,iligently Crafted Udaipur Package,4,3,Udaipur,"Udaipur ,Mount Abu ",2,City  Palace Cruises Religious Lake  Palace ,2,7714,6000,22
+229,warka Tour Package,4,3,Jamnagar,"Jamnagar ,Dwarka ,Veraval ,Somnath ",4,Dwarka  Temples Somnath sightseeing Junagadh Virpur Historical ,3,13333,12000,10
+230,Book Our Alleppey Houseboat Tour Package,2,1,Alleppey,Alleppey ,1,Houseboat  Stay Nature Cruise Romantic Backwaters ,3,8118,7387,9
+231,Top Ooty Tour Package,3,2,Ooty,Ooty ,1,Sightseeing Nature Doddabetta  Peak Family Tea  ,3,12597,11589,8
+232,esert elight Rajasthan Tour Package,4,3,Jaisalmer,"Jaisalmer ,Bikaner ",2,Camel  Safari Religious Sonar  Quila Nature ,3,8791,8000,9
+233,Enigmatic Leh Ladakh Tour Package,10,9,Manali,"Manali ,sarchu ,Leh ,Pangong ,Nubra Valley ,Kargil ,Srinagar ",7,Pangong  Tso Adventure Nubra  Valley Best sellers ,3,67988,63455,7
+234,  haramshala Tour Package,4,3,Dharamshala,Dharamshala ,1,Sightseeing Nature Naddi  Village  Excursion Hill station ,2,16667,15000,10
+235,Madurai And Rameshwaram Await Your Exploration,6,5,Madurai,"Madurai ,Rameshwaram ,Kanyakumari ,Kovalam ",4,Temple Historical Palaces Religious Vivekananda  Rock  ,3,29455,25920,12
+236,Plan A Replenishing   Alleppey Kerala Tour For A Paradiscal Holiday,3,2,Alleppey,Alleppey ,1,Houseboat Backwaters Leisure Unlimited  Fun Cruises ,3,11198,10078,10
+237,Rajasthan   Tour Package,6,5,Jodhpur,"Jodhpur ,Jaisalmer ,Bikaner ,Jaipur ",4,Mehrangarh  Fort Historical Patwon-ki-haveli Sightseeing Karni  ,3,52838,41999,21
+238,Best of Goa: Exciting Family Vacation Package,6,5,Calangute,Calangute ,1,Adventure Water  Activities Nature Budget,2,39360,32800,17
+239,Best Selling Auli Tour Package,8,7,Dehradun,"Dehradun ,Auli ,Mussoorie ,Dhanaulti ",4,Ideal for friends Adventure Ideal for families Hill station Nature Sightseeing ,3,33833,30450,10
+240,"Adventurous Sikkim, Kalimpong & arjeeling Tour Package",8,7,Gangtok,"Gangtok ,Lachen ,Lachung ,Kalimpong ,Darjeeling ",5,Road  Trip Nature Himalayas Hill station Adventure ,3,69818,65587,6
+241,Exciting elhi Family Tour Package,3,2,New Delhi,New Delhi ,1,Sightseeing Nature Temples Historical Adventure Water  ,2,4395,3999,9
+242,Tempting orth East Tour Package,4,3,Shillong,"Shillong ,Cherrapunjee ",2,Scenic beauty Adventure Living  Root  Bridge Nature ,2,16847,15499,8
+243,Riveting Goa Honeymoon,4,3,Candolim,Candolim ,1,Beach  Vacation Nature Shopping Historical Adventure ,4,33323,29324,12
+244,Adventurous & Cherishable Mount Abu Tour Package,2,1,Mount Abu,Mount Abu ,1,Hill station Sightseeing Nature Budget,3,5434,4999,8
+245,Best Selling Jim Corbett Package,3,2,Jim Corbett,Jim Corbett ,1,Safari Nature Sightseeing Hill station Wildlife Waterfall ,2,14675,12900,12
+246,Gangtok Tour Package,4,3,Gangtok,Gangtok ,1,Temple Adventure Waterfalls Hill station Lake Cultural ,4,43582,40095,8
+247,Mesmerizing Meghalaya Tour,4,3,Shillong,"Shillong ,Cherrapunjee ",2,Historical Nature Markets Local  Villages Lakes ,3,17032,15499,9
+248,Exemplary Jaipur Package,3,2,Jaipur,Jaipur ,1,Amer  Fort Religious Chokhi  Dhani Historical ,2,9333,6000,36
+249,Spend Some Spiritual Time at warkadhish ,3,2,Dwarka,Dwarka ,1,Dwarkadhish  Temple Nature Ideal for families Historical Shopping ,3,10786,9600,11
+250,Book The Best Rishikesh Package,3,2,Rishikesh,"Rishikesh ,Haridwar ",2,Himalayas Temples Nature Hill station Religious Budget,3,10439,9499,9
+251,Goa Tour Package,4,3,Goa,Goa ,1,Best- Selling Historical Beach hopping Adventure Shopping ,3,19956,17500,12
+252,Best-Selling orth East Tours For An Escape To ature,5,4,Kaziranga,"Kaziranga ,Shillong ,Guwahati ",3,Kaziranga  National  Park Religious  Elephant  Safari ,2,20000,18000,10
+253,A Fascinating Vacation In Auli,5,4,Auli,"Auli ,Mussoorie ",2,Sightseeing Nature Skiing Hill station Ropeway  Ride ,3,27707,24936,10
+254,Splendid Sikkim Gangtok Lachen Lachung Package,6,5,Gangtok,"Gangtok ,Lachen ,Lachung ",3,Adventure Nature Hill station Himalayas Road  Trip ,3,57847,53397,8
+255,    ortheast Holiday Package,4,3,Shillong,"Shillong ,Mawlynnong ",2,Homestay Wildlife Waterfalls Nature Picturesque landscape Hill station ,2,17222,15500,10
+256,Spectacular Cochin Tour Package,2,1,Cochin,Cochin ,1,Sightseeing Unlimited  Fun City  Tourmuseums Wildlife ,3,4515,3973,12
+257,Marvellous Goa Tour Package,5,4,Calangute,Calangute ,1,Historical  Sites Wildlife Flea  Markets Historical ,3,34500,25875,25
+258,Affordable     Mount Abu Family Tour Package,3,2,Mount Abu,Mount Abu ,1,Nakki  Lake Dilwara  Jain  Temple Brahma  ,3,8791,8000,9
+259,Kerala Honeymoon,8,7,Kochi,"Kochi ,Munnar ,Thekkady ,Alleppey ,Kovalam ",5,Beach Hill station Nature Adventure Ayurvedic  Spa ,3,61841,57506,7
+260,elightful Udaipur Tour Package,5,4,Udaipur,Udaipur ,1,Sightseeing Nature City  Palace Lakes Lake  ,3,14285,12999,9
+261,Phenomenal Travel Package,2,1,Mysore,Mysore ,1,  Arrival Adventure Sightseeing Historical Shopping ,2,8043,7319,9
+262,Jumbo Goa Family Holiday Package,7,6,Candolim,Candolim ,1,Basilica of  Bom  Jesus Nature Fort  Aguada ,4,40588,36529,10
+263,elightful Uttarakhand Family Tour Package,11,10,Mussoorie,"Mussoorie ,Dhanaulti ,Jim Corbett ,Kausani ,Ranikhet ,Nainital ",6,Himalayas Ancient temples Scenic  Drive Picturesque valleys Wildlife ,3,46534,40950,12
+264,Exotic Sikkim Tour Package,8,7,Gangtok,"Gangtok ,Lachen ,Lachung ,Pelling ,Darjeeling ",5,Nature Hill station Waterfalls Adventure Friends Religious ,3,15964,14966,6
+265,Best Selling Goa Monsoon Tour Package,4,3,Candolim,Candolim ,1,Monsoon  Special Historical Adventure Pocket-friendly Nature ,3,19543,16099,18
+266,Amazing Kashmir Tour Package,5,4,Srinagar,"Srinagar ,Pahalgam ",2,Shikara  Ride Nature Water  Sports Best sellers ,2,14287,13000,9
+267,Top Selling Budgeted Kasol Tour Package,6,5,Kasol,"Kasol ,Kheerganga ,Tosh ",3,Camping Kheerganga top Trekking Adventurelandscape V A ,3,25000,22000,12
+268,Best-Selling     Gujarat Package,5,4,Jamnagar,"Jamnagar ,Dwarka ,Veraval ,Diu ",4,Bala  Hanuman  Temple Nageshwar  Jyotirling Dwarkadhish  ,3,19764,17590,11
+269,Splendid Goa Island Tour With udhsagar Falls,6,5,Calangute,Calangute ,1,Beach Hot  Pick Beach  Vacation Waterfalls ,3,35359,28750,19
+270,Mesmerizing Mysore Trip Package,2,1,Mysore,Mysore ,1,Mysore  Palace Historical Chamundi  Hillstemples Brindavan  ,3,11395,10369,9
+271,Best     Exhilarating haramshala Tour Package,4,3,Dharamshala,Dharamshala ,1,Beautiful scenery Nature Religious sites Hill station Palampur  Tea  ,3,16484,15000,9
+272,Exemplary Uttarakhand Family Tour Package,7,6,Mussoorie,"Mussoorie ,Haridwar ,Jim Corbett ,Nainital ",4,Adventure Religious Nature Water  Activities Wildlife ,2,28327,26499,6
+273,Choose From Our arjeeling Gangtok Tour Package,10,9,Gangtok,"Gangtok ,Lachen ,Lachung ,Pelling ,Darjeeling ",5,Adventure Nature Hill station Himalayas Sightseeing Hills ,2,48068,42300,12
+274,    Gujarat Family Tour Package,7,6,Ahmedabad,"Ahmedabad ,Dwarka ,Veraval ,Diu ,Sasan Gir ",5,Dwarka  Temples Water  Activities Gir  National  ,3,23076,20999,9
+275,Soulful warka Gujarat Tour Package,3,2,Dwarka,Dwarka ,1,Religious  Tour Historical Dwarkadhish  Temple Religious ,3,10434,9599,8
+276,Popular Kutch Tour Package,3,2,Bhuj,Bhuj ,1,Rann of  Kutch Adventure White salt desertmuseums Religious Budget,3,23736,21600,9
+277,Perfect Mussoorie Tour Package,4,3,Mussoorie,"Mussoorie ,Dhanaulti ",2,Dhanaulti Nature Kempty  Falls Hill station Sightseeing ,3,16666,14999,10
+278,Admire The Beautiful Places In ortheast India,7,6,Guwahati,"Guwahati ,Kaziranga ,Shillong ",3,  Mawlynnong  Village Water  Activities Dawki ,3,40659,37000,9
+279,Explore Our Amazing     Gujarat Tour Package,4,3,Dwarka,"Dwarka ,Veraval ,Somnath ",3,Spiritual journey Historical Religious sites Nature Temple tours Religious ,3,13478,12400,8
+280,Best Selling   And   Arunachal Pradesh Tour,7,6,Bhalukpong,"Bhalukpong ,Dirang ,Tawang ,Bomdila ",4,Ice skating Hill station Bomdila viewpoint Sightseeing Budget,2,39560,36000,9
+281,Best  ight   Mysore Tour Package,3,2,Mysore,Mysore ,1,Hill station Mysore  Palace Religious Shopping Sightseeing ,3,11522,10370,10
+282,Charismatic Kerala Family Holiday Package,8,7,Kochi,"Kochi ,Munnar ,Thekkady ,Alleppey ,Kovalam ",5,Houseboat  Stay Jungle  Safari Beach  Vacation ,3,27156,25798,5
+283,Memorable Mahabaleshwar Family Package,4,3,Mahabaleshwar,Mahabaleshwar ,1,Local sightseeing Adventure Forts Nature Shopping Family ,3,13296,12099,9
+284,Riveting Rajasthan Sightseeing Tour Package,7,6,Jaipur,"Jaipur ,Bikaner ,Jaisalmer ,Jodhpur ",4,Scenic  Landscapes Nature Camel  Ride Adventure ,3,21097,19198,9
+285,Kerala Honeymoon,3,2,Munnar,Munnar ,1,Beach Adventure Lake Nature Waterfalls Romantic ,3,9031,8399,7
+286,Thrilling Jim Corbett ational Park Honeymoon,3,2,Jim Corbett,Jim Corbett ,1,Sightseeing Nature Adventure Wildlife Wildlife safari Romantic,4,13846,12600,9
+287,Splendid Goa Tour Package,4,3,Goa,Goa ,1,Calangute  Beach Adventure Aguada  Fort Water  ,3,9890,9000,9
+288,Splendid Ladakh Honeymoon,7,6,Leh,"Leh ,Pangong ,Nubra Valley ",3,Adventure Nature Nubra  Valley Hill station Gurudwara  ,2,30681,26999,12
+289,Infinitely Romantic Jammu And Kashmir Honeymoon,3,2,Srinagar,"Srinagar ,Gulmarg ",2,Hill station Sightseeing Best sellers Cable  Car  Ride ,3,21429,19500,9
+290,Best Selling Holidays To Sikkim With Your Loved Ones,4,3,Gangtok,Gangtok ,1,Lake Adventure Monasteries Hill station Temple Nature,4,29055,26731,8
+291,South India Honeymoon,3,2,Munnar,"Munnar ,Alleppey ",2,Adventure Nature Religious Budget,3,17503,16103,8
+292,Fanciful Kodaikanal Honeymoon,3,2,Kodaikanal,Kodaikanal ,1,Arrival Hill station Shopping Best sellers Sightseeing Adventure ,5,23461,21350,9
+293,Alluring Goa Honeymoon,6,5,Goa,Goa ,1,Baga  Beach Adventure Candolim  Beach Nature ,4,19120,17399,9
+294,Goa Beachside Honeymoon,5,4,Goa,Goa ,1,Adventure  Activities Nature Beaches Adventure Romantic  ,4,24175,21999,9
+295,Gangtok Tour Package,3,2,Gangtok,Gangtok ,1,Scenic views Adventure Temple Nature City  Tour ,5,79666,74089,7
+296,Mesmerizing Meghalaya Tour Package,4,3,Shillong,Shillong ,1,Sightseeing Hill station Ideal  For  Family Road  ,2,16476,14499,12
+297,Auli Honeymoon,3,2,Auli,Auli ,1,Mountains  Adventure Dam Nature Ropeway  Ride ,3,14784,13749,7
+298,arjeeling Tour Package,4,3,Darjeeling,Darjeeling ,1,Tiger  Hill Nature Mirik Adventure Mountains  ,4,25562,24028,6
+299,A Lovely Honeymoon,4,3,Munnar,"Munnar ,Cochin ",2,Sightseeing Hill station Adventure  Activities Water  Activities ,3,14765,13436,9
+300,The Perfect Romantic Goa Honeymoon,4,3,Goa,Goa ,1,Adventure  Activities Water  Activities Beaches Cruises ,3,15384,13999,9
+301,Exhilarating Rajasthan Honeymoon,6,5,Jaipur,"Jaipur ,Pushkar ,Ranthambore ",3,Cultural  Extravaganza Nature Sightseeing Wildlife Adventure ,3,17977,16000,11
+302,Striking Thekkady Kochi Munnar Honeymoon,4,3,Munnar,"Munnar ,Thekkady ,Cochin ",3,Ideal for couples Natural  Beauty Jungle  Safari Marine  ,3,16435,15120,8
+303,Magical Himachal Trip Package,9,8,Shimla,"Shimla ,Manali ,Dharamshala ,Dalhousie ,Khajjiar ",5,Hill station Adventure Nature Water  Activities Sightseeing ,4,39011,35500,9
+304,Gorgeous Gangtok Tour Package,3,2,Gangtok,Gangtok ,1,Sightseeing Adventure Himalayas Nature Hill station Ideal for friendsshopping ,2,24493,22044,10
+305,South Goa Honeymoon,3,2,Goa,Goa ,1,Ideal for couples Nature Romantic Beachcuisine  Budget,3,11763,9999,15
+306,Romantic  Mount Abu Tour Package,4,3,Udaipur,"Udaipur ,Mount Abu ",2,Sightseeing Water  Activities Nature Hill station Hill  ,3,9332,8399,10
+307,Srinagar Gulmarg Pahalgam Tour Package,4,3,Srinagar,Srinagar ,1,Pari  Mahal Nature Cable  Car  Ride ,3,15426,14500,6
+308,Exotic Kashmir Honeymoon,4,3,Srinagar,"Srinagar ,Pahalgam ",2,Night at  Houseboat Best sellers Gondola  Ride Nature ,2,15463,11984,22
+309,Goa Tour Package,3,2,Goa,Goa ,1,Sightseeing Nature Beaches Adventure Water  Activitiesskiing ,3,9782,8999,8
+310,An Enjoyable Kochi Family Package,4,3,Cochin,"Cochin ,Munnar ",2,Mattancherry  Palace Historical St.  Francis  Church ,3,17142,15599,9
+311,Charming Mussoorie Honeymoon,3,2,Mussoorie,Mussoorie ,1,Sightseeing Nature Hills Adventure Hill station Budget,3,15866,14438,9
+312,Captivating Kerala Honeymoon,4,3,Munnar,"Munnar ,Alleppey ",2,Backwaters Adventure Jungle  Safari Nature Waterfalls ,3,17142,15599,9
+313,Wonderful Summer Special Family Tour To Verdant Coorg,3,2,Coorg,Coorg ,1,Shopping Adventure  Arrival Nature Sightseeing Hill station ,5,26142,23789,9
+314,Astounding Tour Package,3,2,Kasol,"Kasol ,Malana  ",2,Manikaran Hill station Trekking Nature Road  Trip ,3,12637,11500,9
+315,Spectacular Udaipur Honeymoon,3,2,Udaipur,Udaipur ,1,Romantic Historicallandscape Lakes Ideal for couples Lakes in  Udaipur ,3,8241,7499,9
+316,Shimla: The Gem In Himachalâs Crown,3,2,Shimla,Shimla ,1,Picturesque sights Nature Hill station Religious Adventureskiing Budget,3,5435,5000,8
+317,Fun-Filled Gangtok & arjeeling Family Tour ,6,5,Darjeeling,"Darjeeling ,Gangtok ",2,Hot  Pick Adventure Mountains  Historical Hill station ,3,66084,57073,14
+318,Splendid Mount Abu Summer Festival Package,3,2,Mount Abu,Mount Abu ,1,Summer  Festival Adventure Sham-e- Qawwali Hill station ,4,17582,16000,9
+319,Romantic Rajasthan Honeymoon,9,8,Jaipur,"Jaipur ,Bikaner ,Jaisalmer ,Jodhpur ,Udaipur ",5,Camping Historical Sightseeing City  Tour Nature ,4,33954,30898,9
+320,Kodaikanal  ight   Tour Package,2,1,Kodaikanal,Kodaikanal ,1,Hill  Station Nature   Trekking  Adventure Lakes ,3,10101,9394,7
+321,Fascinating Goa Honeymoon,4,3,Goa,Goa ,1,Beaches Water  Activities Churches Best sellers Boat  ,4,15934,14500,9
+322,Goa Honeymoon,3,2,Goa,Goa ,1,Watersports Adventure Fort  Aguada Water  Activities ,3,9139,8499,7
+323,Best / Sikkim Tour Package,3,2,Darjeeling,Darjeeling ,1,Tea  Garden Adventure Tiger  Hill Hill station ,2,29054,27020,7
+324,Splendid Coorg Honeymoon,3,2,Coorg,Coorg ,1,Sightseeing Adventure City  Tour Nature Historical  ,3,21011,18910,10
+325,Ooty Honeymoon,2,1,Ooty,Ooty ,1,Lake Hill station National  Park Nature Museum ,3,11544,10736,7
+326,Heavenly arjeeling Sightseeing Tour Package,4,3,Darjeeling,Darjeeling ,1,Hill  Station Adventure Nature F O ,2,24710,22486,9
+327,Sensational Himachal Tour Package,9,8,Shimla,"Shimla ,Manali ,Dharamshala ,Dalhousie ",4,Kufri Water  Activities Solang  Valley Adventure ,4,42308,38500,9
+328,Adventurous Leh-Ladakh Tour Package,8,7,Leh,"Leh ,Pangong ,Nubra Valley ,Kargil ,Srinagar ",5,Nature Road  Trip Adventure Himalayas Camping ,3,45454,44999,1
+329,A Royal Udaipur Family Tour Package,3,2,Udaipur,Udaipur ,1,Sahelion ki  Bari Nature Jagdish  Temple Historical ,3,7608,6999,8
+330,Rajasthan Tourism Package,4,3,Udaipur,Udaipur ,1,Sightseeing Adventure Historical  Tour Historical Lake  ,3,5494,5000,9
+331,Astonishing Himachal Tour Package,9,8,Shimla,"Shimla ,Manali ,Dharamshala ,Dalhousie ",4,Solang  Valley Adventure Dalhousie  Nature Hill station ,3,36484,33200,9
+332,Holy Char ham Package,4,3,Haridwar,"Haridwar ,Badrinath ",2,Temples Adventure Religious  Tour Nature Family ,2,9230,8399,9
+333,Best Selling Mussoorie Getaways For A Refreshing Break,2,1,Mussoorie,Mussoorie ,1,Lal  Tibba Adventure Kempty  Falls Hill station ,3,6209,5774,7
+334,A Short And Sweet Puri Tour Package,3,2,Puri,Puri ,1,Sightseeing Nature Road  Trip Adventure Historical  ,3,10483,9540,9
+335,Spectacular ortheast Honeymoon,6,5,Shillong,"Shillong ,Cherrapunjee ,Guwahati ",3,Umiam  Lake Hill station Double-decker  Root  Bridge ,2,20329,18499,9
+336,Scintillating Shillong Sightseeing Tour Package,3,2,Shillong,Shillong ,1,Caves Adventure Shillong Nature Kamakhya  Devi  ,3,9890,9000,9
+337,Sublime Gangtok Package,4,3,Gangtok,Gangtok ,1,Baba  Harbhajan  Mandir Religious Tsomgo  Lake ,2,31821,28002,12
+338,Religious Char ham Tour Package,7,6,Haridwar,"Haridwar ,Barkot ,Uttarkashi ",3,Gangotri Hill station Yamunotri  Temple Adventure Nature ,2,10384,9449,9
+339,Kerala Houseboat Trip Package,5,4,Munnar,"Munnar ,Thekkady ,Alleppey ",3,Adventure Nature Sightseeing,3,23946,20400,15
+340,Lovely Goa Family Tour,4,3,Calangute,Calangute ,1,Unlimited  Fun Historical Beaches Nature Cruise  ,3,12921,11500,11
+341,Magnificent Kasol Tour Package,4,3,Kasol,"Kasol ,Kheerganga ",2,Kheerganga trek Adventure Kasol Hill station Natureshoppinglandscape Budget,2,13187,12000,9
+342,Incredible Ladakh Honeymoon,7,6,Leh,"Leh ,Nubra Valley ,Pangong ",3,Adventure Sightseeing Nature Road  Trip Hill station ,2,28089,24999,11
+343,Thrilling haramshala Tour Package,4,3,Dharamshala,Dharamshala ,1,Ideal for families Hill station Ideal for couples Adventure Palampur Nature ,3,16484,15000,9
+344,An Invigorating Madurai Sightseeing Tour Package,6,5,Madurai,"Madurai ,Rameshwaram ,Kanyakumari ,Kovalam ",4,Nature Historical Religiousshopping Cultural Budget,3,21796,19834,9
+345,elightful Kodaikanal Sightseeing Tour Package,3,2,Kodaikanal,Kodaikanal ,1,Nature Adventure Hill  Station Waterfalls Historical ,2,16758,15250,9
+346,Exotic Goa Tour,5,4,Goa,Goa ,1,Adventure  Activities Local sightseeing Religious  Tour Cruises ,5,21098,19199,9
+347,"Ideal Sikkim, Gangtok, arjeeling Honeymoon",8,7,Gangtok,"Gangtok ,Lachen ,Lachung ,Darjeeling ",4,Adventure Hill station Sightseeing Himalayas Wildlife Nature ,2,60983,54275,11
+348,Best Selling Mahabaleshwar Sightseeing Encounters,3,2,Mahabaleshwar,Mahabaleshwar ,1,Sightseeing Adventure Shopping Nature Local market Hill station ,3,10879,9900,9
+349,Splendid Ooty Tour Package,3,2,Ooty,Ooty ,1,Sightseeing Hill station City  Tour Lakes Nature ,4,14076,12809,9
+350,A Blissful Goa Honeymoon,5,4,Goa,Goa ,1,Picturesque sights Water  Activities Sightseeing Best sellers Beach ,3,15164,13799,9
+351,Summer Special Uttarakhand Honeymoon,6,5,Nainital,"Nainital ,Ranikhet ,Jim Corbett ",3,Naini  Lake Adventure Local sightseeing Nature Wildlife ,3,31730,28874,9
+352,Kochi Family Trip: Incredible Fun,2,1,Cochin,Cochin ,1,Kochi Nature Sightseeing Adventure Hill station Historical ,3,7734,7038,9
+353,Amazing Goa Family Tour: Forts & Adventure,4,3,Goa,Goa ,1,Calangute  Beach Adventure Anjuna  Beach Nature ,2,19756,16500,16
+354,Romantic Mount Abu Honeymoon,4,3,Udaipur,"Udaipur ,Mount Abu ",2,Adventure Sightseeing Nature Hills Hill station Water  ,3,11235,9999,11
+355,Kerala Honeymoon,6,5,Munnar,"Munnar ,Thekkady ,Kumarakom ,Kochi ",4,Hot  Pick Cruises Romantic  Tour Hill station ,3,34720,29760,14
+356,Kashmir Tour Package,3,2,Srinagar,Srinagar ,1,Shalimar  Bagh Nature Dal  Lake Adventure ,3,13441,12500,7
+357,Astonishing Alleppey Family Tour Package,2,1,Alleppey,Alleppey ,1,Houseboat Family Historical Religious Hill station Adventure ,3,7696,7003,9
+358,Spell-Binding Mussoorie Tour Package,3,2,Mussoorie,Mussoorie ,1,Nature Hill station Budget,3,16770,15093,10
+359,Leh Ladakh   Trip Package,6,5,Leh,"Leh ,Nubra Valley ,Hunder ",3,Shanti  Stupa Adventure Magnetic  Hill Nature ,3,27173,24999,8
+360,Captivating Kovalam Honeymoon,3,2,Kovalam,Kovalam ,1,Romantic Adventure Nature Beach Unlimited  Fun ,3,13227,11640,12
+361,Fantastical Rajasthan Honeymoon,4,3,Jodhpur,"Jodhpur ,Jaisalmer ",2,Folk  Music Adventure Shopping Nature Leisure  ,4,13735,12499,9
+362,Mesmerizing Sikkim & arjeeling Family Tour Package,6,5,Gangtok,"Gangtok ,Pelling ,Darjeeling ",3,Family time Historical Waterfalls Adventure Nature Himalayas ,3,55399,50782,8
+363,Offbeat Uttarakhand Tour,4,3,Nainital,"Nainital ,Mukteshwar ",2,Mukteshwar temple Sightseeing Nature Religious Hill station Wildlife ,3,17308,15750,9
+364,Romantic Lansdowne Honeymoon,2,1,Lansdowne,Lansdowne ,1,Gandhi  Chowk Shatabdi  Dwar Nature Romantic ,4,9807,8924,9
+365,Exquisite Andaman Honeymoon,8,7,Port Blair,"Port Blair ,Havelock ,Neil Island ",3,Nature Water  Activities Adventure Sightseeing Snorkeling ,2,30208,26310,13
+366,Alluring Himachal Tour Package,9,8,Shimla,"Shimla ,Manali ,Dharamshala ,Dalhousie ,Khajjiar ",5,Nature Adventure Hill station Water  Activities Waterfall ,4,36484,33200,9
+367,Gorgeous Gir Tour Package,3,2,Sasan Gir,"Sasan Gir ,Gir ",2,Jungle  Safari Adventure Museum Wildlife Sightseeing ,3,11648,10600,9
+368,Amazing Agra Tour Package,4,3,Agra,"Agra ,New Delhi ",2,Sightseeing Historical  Sites Historical Religious sites Shopping ,3,8791,8000,9
+369,"Refreshing Gangtok, Kalimpong & arjeeling Tour Package",7,6,Gangtok,"Gangtok ,Kalimpong ,Darjeeling ",3,Nature Adventure Himalayas Hill station Road  Triplandscape ,3,62409,56982,9
+370,Engaging Leh Tour,6,5,Leh,"Leh ,Hunder ",2,Road  Trip Nature Monasteries Adventure Magnetic  ,3,46153,41999,9
+371,Rejuvenating Rameshwaram Tour,5,4,Madurai,"Madurai ,Rameshwaram ,Kanyakumari ",3,Temples Nature Shopping Wildlife Choice based activities Adventure ,2,16758,15250,9
+372,A Mesmerizing Tawang Tour Package,7,6,Bhalukpong,"Bhalukpong ,Dirang ,Tawang ,Tezpur ",4,Mountains  Hill station Nature Bomdila Water  Activities ,3,32417,29499,9
+373,An Amazing Kasol And Kheerganga Tour Package,5,4,Kasol,"Kasol ,Kheerganga ,Tosh ",3,Road  Trip Adventure Shopping Nature Local market ,3,17033,15500,9
+374,Rejuvenating Summer Special Shimla Tour Package,4,3,Shimla,Shimla ,1,Naldehra Adventure Kufri Nature Mall  Road ,3,16484,15000,9
+375,ostalgic Kochi Honeymoon,5,4,Cochin,"Cochin ,Munnar ,Guruvayur ",3,Airport  Transfers Religious Nature Sightseeing Historicalwaterfall ,3,15468,14076,9
+376,Lovable Gangtok Family Package,3,2,Gangtok,Gangtok ,1,Sightseeing Adventure Himalayas Nature Hill station Hillsshopping ,2,25044,22289,11
+377,Enjoyable Tamil adu Tour Package,3,2,Ooty,Ooty ,1,Ooty Adventure Simâs  Park Nature Lamâs  ,2,12736,11590,9
+378,Best Selling ainital Getaways For A Refreshing Break,2,1,Nainital,Nainital ,1,Lake Nature Himalaya  Darshan Adventure Cave  ,3,6702,6300,6
+379,A Fantabulous Cherrapunji Trip Package,3,2,Cherrapunjee,Cherrapunjee ,1,Cherrapunji Nature Sightseeing  Tour Adventure Caves ,3,12637,11500,9
+380,Captivating elhi Tour Package,4,3,Agra,"Agra ,New Delhi ",2,Historical Taj  Mahal Lotus  Templetemples Qutub  ,3,8791,8000,9
+381,Soothing Srinagar Honeymoon,2,1,Srinagar,Srinagar ,1,Sightseeing Himalayas Hill station Shikara  Ride Romantic ,4,19888,17700,11
+382,Fascinating Goa Tour Package,5,4,Goa,Goa ,1,Beaches Adventure Watersports Nature Shopping Beach ,3,17582,16000,9
+383,Stunning Rajasthan Honeymoon,9,8,Jaipur,"Jaipur ,Bikaner ,Jaisalmer ,Jodhpur ,Udaipur ",5,Forts Adventure Historical  Sightseeing Nature Camel  ,3,78160,67999,13
+384,Weekend In Kerala-Vythiri With Tree House Stay,4,3,Wayanad,Wayanad ,1,Treehouse stay River  Walk Nature walks Hill station Adventure ,3,21215,20154,5
+385,Mahabaleshwar Panchgani Tour Package,4,3,Mahabaleshwar,Mahabaleshwar ,1,Forts Adventure Historic sightseeing Nature Local sightseeing Historical ,4,23626,21500,9
+386,Amazing Alleppey Houseboat Tour Package,2,1,Alleppey,Alleppey ,1,Houseboat Adventure Backwaters Nature Boating Budget,3,8211,7390,10
+387,"Vibrant Sikkim, Gangtok, arjeeling Honeymoon",10,9,Gangtok,"Gangtok ,Lachen ,Lachung ,Pelling ,Darjeeling ",5,Charming hillscapes Wildlife Unlimited adventure Adventure Hill  Station ,2,104889,92302,12
+388,Best   Chikmagalur Tour Package,3,2,Chikmagalur,Chikmagalur ,1,Waterfalls Lakes Trekking Adventure Hill station Budget,3,15151,14090,7
+389,Alluring Alleppey Tour Package,3,2,Alleppey,Alleppey ,1,Houseboat Nature Cruise Cruises Leisure  Day ,3,10774,9804,9
+390,Adventurous Sariska Tour Package,3,2,sariska,sariska ,1,Sariska  Tiger  Reserve Adventure Morning safari Wildlife ,3,5354,4500,16
+391,Adventurous Ranthambore Tour Package,3,2,Ranthambore,Ranthambore ,1,Adventure Morning safari Wildlife Nature Sambar deer Blue  ,3,7734,6500,16
+392,Adventurous haramshala Sightseeing Tour Package,4,3,Dharamshala,Dharamshala ,1,Palampur Nature Hill station Leisure  Time Adventure ,3,13736,12500,9
+393,Magical Meghalaya Tour Package,3,2,Shillong,Shillong ,1,Sightseeing Religious Waterfallslandscape Mawlynnong Hill station Budget,3,14366,12498,13
+394,Heavenly Himachal Honeymoon,8,7,Shimla,"Shimla ,Manali ,Dharamsala ,Dalhousie ",4,Sightseeing Historical Paragliding Adventure Rafting Nature ,3,25274,22999,9
+395,Heavenly Kumarakom Alleppey Tour Package,3,2,Kumarakom,"Kumarakom ,Alleppey ,Kochi ",3,Adventure Cruises Nature Unlimited  Funwaterfall City  ,3,11321,10076,11
+396,Exhilarating Goa Tour,4,3,Goa,Goa ,1,Churches Adventure Panjim  Market Water  Activities ,4,15384,13999,9
+397,"Thrilling Gangtok, Pelling, arjeeling Family Trip",5,4,Gangtok,"Gangtok ,Pelling ,Darjeeling ",3,Tsomgo  Lake Nature Darap  Village Adventure ,2,54981,50583,8
+398,Stunning Leh Tour,8,7,Leh,"Leh ,Nubra Valley ,Pangong ",3,Sightseeing Adventure Monasteries Hill station Camping Historical ,3,32966,29999,9
+399,A Pleasant Tour In Munnar,3,2,Munnar,Munnar ,1,Sightseeing Water  Activities Adventure  Activities Mattupetty  ,3,11243,10231,9
+400,Ultra Romantic Rann Of Kutch Tour Package,5,4,Bhuj,"Bhuj ,Kutch ",2,Village tours Adventure Shopping Nature Scenic views Best sellers ,3,17692,16100,9
+401,Memorable And Romantic Coorg Honeymoon,4,3,Coorg,"Coorg ,Mysore ",2,Sightseeing Adventure Waterfalls Nature Shopping Hill station ,2,15417,14029,9
+402,A Tour Amid ature In Kodaikanal,7,6,Coorg,"Coorg ,Ooty ,Kodaikanal ",3,Sightseeing Adventure Dubare  Reserve  Forest Nature ,3,29677,27006,9
+403,Romantic Coorg Honeymoon,3,2,Coorg,Coorg ,1,Coorg  Honeymoon Adventure Romantic getaway Historical Dubare  ,3,18098,16469,9
+404,Mesmerizing Mount Abu Tour Package,6,5,Jaipur,"Jaipur ,Udaipur ,Mount Abu ",3,Historical  Sites Religious Religious sites Hill station Nature ,3,51111,46000,10
+405,Surreal alhousie Tour Package,3,2,Dalhousie,Dalhousie ,1,Pathankot Nature Family  Trip Hill station Kalatop ,3,24685,22463,9
+406,Best Selling Hyderabad Tours for Refreshing Holidays,3,2,Hyderabad,Hyderabad ,1,Museum Adventure Forts Naturelake visit Monuments Film studiostemplescuisine  ,3,15484,14090,9
+407,Soulful Char ham Yatra Package,12,11,Haridwar,"Haridwar ,Barkot ,Uttarkashi ,Sitapur ,Badrinath ,Srinagar Garhwal ",6,Sightseeing Trekking Temples  Tour Hill station Hot  ,2,25108,23099,8
+408,Alluring Agra Sightseeing Tour Package,3,2,Agra,Agra ,1,Scenic  Landscapes Adventure Taj  Mahal Nature ,3,5494,5000,9
+409,Remarkable Kasauli Tour Package,2,1,Kasauli,Kasauli ,1,Sightseeing Nature Ideal  For  Family Budget,3,16434,15119,8
+410,elightful ainital Mukteshwar Family Package,4,3,Nainital,"Nainital ,Mukteshwar ",2,Ideal for families Adventure Mukteshwar temple Nature Bhimtal Hill station ,3,14423,13125,9
+411,elightful Athirapally Honeymoon,2,1,Athirapally,Athirapally ,1,Sightseeing Religious Waterfalls Nature Hanging bridge Romantic ,3,7357,6695,9
+412,Lovely elhi Tour Package,4,3,Agra,"Agra ,New Delhi ",2,Ideal  For  Family Religious Taj  Mahal ,3,10989,10000,9
+413,o ham Yatra Package,7,6,Haridwar,"Haridwar ,Barkot ,Uttarkashi ",3,Temples  Tour Sightseeing Trekking Hot  Springs ,2,15000,13650,9
+414,Exotic Ladakh Honeymoon,6,5,Leh,"Leh ,Nubra Valley ",2,Adventure Mountain  Desert Nature Roadtrip Romantic ,2,21110,18999,10
+415,Majestic Jaisalmer Honeymoon,4,3,Jodhpur,"Jodhpur ,Jaisalmer ",2,Camel  Safari Adventure Camping Nature Historic sightseeing ,3,19021,17499,8
+416,Invigorating Himachal Tour Package,8,7,Shimla,"Shimla ,Manali ,Mcleodganj ,Dalhousie ",4,Sightseeing Adventure Temple Hill station Churches Nature ,3,36044,32800,9
+417,Have A Fantastic Tawang Trip Full Of Joy,6,5,Bhalukpong,"Bhalukpong ,Dirang ,Tawang ,Bomdila ",4,Sightseeing Adventure Nature Private  Transfers Historical ,3,35714,32500,9
+418,Top-Ranked Kanyakumari Sightseeing Package,3,2,Kanyakumari,Kanyakumari ,1,Adventure Adventure  Activities Religioustemples Sightseeing Budget,2,10323,9394,9
+419,Spiritual Char ham Yatra Package,11,10,Haridwar,"Haridwar ,Barkot ,Uttarkashi ,Sitapur ,Badrinath ",5,Sightseeing Adventure City  Tour Hill station Religious  ,2,20769,18900,9
+420,Exhilarating Auli Tour Package,3,2,Auli,Auli ,1,Scenic road trips Cable  Car  Ride Auli lake Nature ,2,14583,13125,10
+421,Best Kasol   Tour Package,3,2,Kasol,Kasol ,1,Trekking Nature walks Nature Parvati  River Adventure ,3,21505,20000,7
+422,Sensational Leh Honeymoon,13,12,Leh,"Leh ,Nubra Valley ,Pangong ,Jispa ,Kaza ,Chandra Tal ,Manali ",7,Hill station Adventure Nature Religious Romantic Sightseeing ,3,63231,57540,9
+423,Blissful Shimla Tour Package,4,3,Shimla,Shimla ,1,Sightseeing Hill station Overnight  Journey Adventure Nature ,2,13930,12816,8
+424,Mysore: A Culturally Rich City,3,2,Mysore,Mysore ,1,Breakfast Hill station Sightseeing Adventure Mysore  Palace ,3,14076,12809,9
+425,A Revitalizing Tamil adu Tour Package,4,3,Ooty,Ooty ,1,Nature Adventure Spiritual Sightseeing Hill station Historical ,3,16758,15250,9
+426,Leh Ladakh   Trip Package,5,4,Leh,"Leh ,Nubra Valley ,Pangong ",3,Khardungla  Pass Adventure Camel  Ride Nature ,3,22825,20999,8
+427,Ravishing Rishikesh Tour Package,2,1,Rishikesh,Rishikesh ,1,Himalayas Adventure Sightseeing Nature Religious sites Hill station ,3,7500,6825,9
+428,Mind Blowing Shillong Honeymoon,3,2,Shillong,Shillong ,1,Shillong Water  Activities  Mawlynnong  Village Sightseeing ,3,13736,12500,9
+429,Offbeat Leh Ladakh Tour Package,10,9,Leh,"Leh ,Alchi ,Pangong ,Nubra Valley ,Tsomoriri ",5,Nature Offbeat Adventure Hill station Ideal for friends Religious ,3,44943,39999,11
+430,Alluring Jaisalmer Tour Package,4,3,Jaisalmer,"Jaisalmer ,Bikaner ",2,Historical  Sightseeing Historical Desert  Safari Religious ,3,19662,17499,11
+431,Enchanting Leh Ladakh Family Tour Package,8,7,Srinagar,"Srinagar ,Kargil ,Leh ,Pangong ,Nubra Valley ",5,Himalayas Nature Road  Trip Adventure Houseboat  ,4,48102,44999,6
+432,Guwahati Trip Package,3,2,Guwahati,Guwahati ,1,Guwahati Nature Kamakhya  Devi  Temple Hill station ,3,12636,11499,9
+433,Romantic Jammu Kashmir Honeymoon,9,8,Katra,"Katra ,Pahalgam ,Srinagar ,Gulmarg ",4,Vaishno  Devi Night at  Houseboat Nature Gondola  ,2,24693,21999,11
+434,Enriching Kochi Munnar Family Tour Package,4,3,Cochin,"Cochin ,Munnar ",2,Adventure Ayurvedic Hills Nature Tea gardens Hill station ,3,14332,12899,10
+435,ivine haramshala Honeymoon,5,4,Dharamshala,"Dharamshala ,Dalhousie ",2,  Arrival Hill station Sightseeing Religious Leisure  ,3,14945,13600,9
+436,Kerala Weekend Special: Kumarakom Backwaters & Munnar Hills,4,3,Munnar,"Munnar ,Kumarakom ",2,Ideal for couples Nature Houseboat  Stay Cruises Wildlifelandscape ,3,12214,12092,1
+437,An Enthralling Jodhpur Sightseeing Tour Package,4,3,Jodhpur,"Jodhpur ,Jaisalmer ",2,Jaisalmer Adventure Jodhpur Nature Sightseeing Desert  ,2,10989,10000,9
+438,Blissful Kashmir Honeymoon,7,6,Srinagar,"Srinagar ,Pahalgam ,Gulmarg ",3,Adventure Houseboat  Stay Nature Shikara  Ride ,2,24444,22000,10
+439,Scenic Gangtok Tour Package,4,3,Gangtok,Gangtok ,1,Waterfalls Wildlife Hill  Station Adventure Natureshopping ,2,30815,27117,12
+440,Breathtaking Ladakh Family Package,10,9,Srinagar,"Srinagar ,Kargil ,Leh ,Nubra Valley ,Pangong ,sarchu ,Manali ",7,Shikara  Ride Religious Drass Historical Rohtang  ,2,69999,62999,10
+441,Most-Exclusive Jaipur   Tour Package,3,2,Jaipur,Jaipur ,1,National  Monument Adventure Amber  Fort Nature ,4,12765,11999,6
+442,A Family Getaway To The Hills Of Himachal,5,4,Shimla,"Shimla ,Sarahan ,Chitkul ,Narkanda ",4,Kamru  Fort Historical Bhimkali  Temple Adventure ,3,25996,23656,9
+443,elightful Mount Abu Family Package,2,1,Mount Abu,Mount Abu ,1,Hill  Station Historical Mount  Abu Nature ,3,5494,5000,9
+444,Kerala is a Land of Wonders,7,6,Kochi,"Kochi ,Munnar ,Thekkady ,Kovalam ",4,Family  Special Wildlife Natural  Beauty Nature ,3,22988,20000,13
+445,Bewitching Pelling Tour Package,2,1,Pelling,Pelling ,1,Sightseeing Nature Kechopari  Lake Cultural Kanchenjunga  ,3,15995,14875,7
+446,Top-Selling Amritsar   Package,3,2,Amritsar,Amritsar ,1,Golden  Temple Nature Museum Religious Sightseeing ,3,21739,20000,8
+447,Exciting Kanyakumari-Kovalam Family Tour Package,4,3,Kovalam,"Kovalam ,Kanyakumari ",2,Beach  Vacation Water  Activities City  Tour ,3,13068,11500,12
+448,Elegant Srinagar Tour Package,2,1,Srinagar,Srinagar ,1,Himalayas Nature Hill station Shikara  Ride Sightseeing ,4,20225,18000,11
+449,Idyllic haramshala Family Package,6,5,Dharamshala,"Dharamshala ,Dalhousie ,Amritsar ",3,Hills Hill station Nature Water  Activities Dalai  ,3,25714,23400,9
+450,Adventurous Assam Tour Package,3,2,Kaziranga National Park,Kaziranga National Park ,1,Kaziranga  National  Park Adventure Elephant  Ride ,3,15730,14000,11
+451,Picturesque Ranikhet Honeymoon,4,3,Nainital,"Nainital ,Ranikhet ,Kausani ",3,Kainchi  Dham Romantic Chaubatia  Gardens Sightseeing ,2,15000,13650,9
+452,Gleeful Rann Of Kutch Tour Package,5,4,Bhuj,"Bhuj ,Kutch ",2,Sightseeing Adventure Religious Desert  Safarimuseums Cultural  ,3,22087,20099,9
+453,Vivid Orissa Tour Package,3,2,Bhubaneshwar,"Bhubaneshwar ,Bhubaneswar ",2,Temple Adventure Lake Historical Culture Nature ,2,13000,11700,10
+454,Lonavala Tour Package,4,3,Matheran,"Matheran ,Lonavala ,Khandala ",3,Hills Hill station Lake Historical Echo  Pointlandscape ,3,15714,14300,9
+455,    Manali Tour Package,5,4,Manali,Manali ,1,Manali Nature Rohtang  Pass Adventure Solang  ,3,33230,30239,9
+456,Best Udupi Sightseeing Tour Package,3,2,Udupi,Udupi ,1,Temple Religious Statues Historical Sightseeing Budget,3,11797,10735,9
+457,Top-Selling Karnataka Package,2,1,Mysore,"Mysore ,Bangalore ",2,Scenic views Nature Temple Hill station Sightseeing Budget,4,15086,14030,7
+458,Irresistible Leh Honeymoon,9,8,Leh,"Leh ,Nubra Valley ,Pangong ,Tsomoriri ",4,Adventure Nature Hill station Cultural Camping Trekking ,3,47252,42999,9
+459,Explore The True Tradition Of Gujarat,3,2,Bhuj,Bhuj ,1,Sightseeing Rann of  Kutch Historical Religiousmuseums Budget,3,13846,12600,9
+460,Ultimate Uttarakhand Tour Package,8,7,Nainital,"Nainital ,Almora ,Kausani ,Jim Corbett ",4,Religious Naina  Devi  Temple Nature Hill station ,2,33156,30449,8
+461,ynamic Orissa Tour Package,5,4,Bhubaneshwar,"Bhubaneshwar ,Puri ",2,Sightseeing Historical Nature Religious Temple  Tour ,2,14318,12600,12
+462,Intimate Summer Special Shimla Honeymoon,5,4,Shimla,Shimla ,1,Nature  Park Water  Activities Adventure Shopping ,3,41775,38015,9
+463,Scintillating orth East Tour Package,6,5,Bhalukpong,"Bhalukpong ,Dirang ,Tawang ,Bomdila ",4,River  Rafting Adventure Sela  Lake Religious ,2,25568,22500,12
+464,Best     warka Tour Package,5,4,Ahmedabad,"Ahmedabad ,Dwarka ,Veraval ,Somnath ",4,Sightseeing Gandhi  Ashram Hutheesing  Jain  Temple ,3,17741,16499,7
+465,elhi: The Heart of India,6,5,New Delhi,"New Delhi ,Agra ",2,Red  Fort Historical Mathura  Temple Sightseeing ,3,14285,12999,9
+466,Rameshwaram Tour Package,2,1,Rameshwaram,Rameshwaram ,1,Sightseeing Adventure Temple Nature Watersports Historical ,3,12535,11407,9
+467,Alluring Gujarat family Package,5,4,Dwarka,"Dwarka ,Somnath ,Ahmedabad ",3,Lakhota  Lake Nature Bala  Hanuman  Temple ,3,16593,15100,9
+468,Mysore Tour Package,2,1,Mysore,Mysore ,1,Nature Adventure Historical Budget,2,7138,6710,6
+469,Tempting Tirupati Tour Package,3,2,Chennai,"Chennai ,Tirupati ",2,Ideal for pilgrims Religious Marina  Beach Historical Sri  ,2,14747,13420,9
+470,Uttarakhand: A Gem To Be Explored,4,3,Jim Corbett,"Jim Corbett ,Nainital ",2,Adventure Best sellers Nature Wildlife Hills Group package ,2,16153,14999,7
+471,Enchanting Meghalaya Tour Package,3,2,Shillong,Shillong ,1,Sightseeing Nature City  Tour Hill station Lakes ,3,13585,12498,8
+472,Munnar Tour Package,3,2,Munnar,Munnar ,1,Gardens Adventure Waterfalls Nature Culture Sightseeing ,3,7526,6999,7
+473,Wonderful Goa Family Package,3,2,Calangute,"Calangute ,Goa ",2,Beach Water  Activities Jeep  Safari Nature ,3,19318,17000,12
+474,Unique Guwahati Sightseeing Tour Package,3,2,Guwahati,Guwahati ,1,Sightseeing Nature Adventure Scenic  Landscapes Hill station ,3,13736,12500,9
+475,An Exhilarating Haridwar Mussoorie Tour Package,3,2,Haridwar,"Haridwar ,Mussoorie ",2,Haridwar City  Tour Sightseeing Nature Hill station ,3,10961,9975,9
+476,Spellbinding Meghalaya Tour Package,6,5,Shillong,"Shillong ,Cherrapunjee ,Guwahati ",3,Nature Lake Temples Hill station Waterfalls  Water  ,3,35714,32500,9
+477,Religious Jammu Kashmir Tour Package,7,6,Katra,"Katra ,Srinagar ,Gulmarg ,Pahalgam ,Jammu ",5,Nehru  Park Nature Zorbing Religious Pony  ,2,24043,22300,7
+478,Phenomenal Honeymoon,6,5,Kasol,"Kasol ,Kheerganga ,Tosh ",3,Sightseeing Best sellers Camping Adventure Ideal for couples Nature ,3,28480,25632,10
+479,Best Of Jammu Kashmir Family Package,10,9,Katra,"Katra ,Pahalgam ,Srinagar ,Gulmarg ",4,Vaishno  Devi Nature Night in  Houseboat Religious ,2,35743,32000,10
+480,Budget Friendly Jim Corbett Package,4,3,Jim Corbett,"Jim Corbett ,Nainital ",2,Sightseeing Jeep  Safari Adventure Nature Wildlife,4,25384,23099,9
+481,Best Goa   Trip For A Rememberable Trip,5,4,Goa,Goa ,1,City  Tour Nature Watersports Adventure Beaches ,3,14893,13999,6
+482,Vibrant Gujarat Family Package,6,5,Jamnagar,"Jamnagar ,Dwarka ,Veraval ,Sasan Gir ,Diu ",5,Museum Morning  Aarti Jungle  Safari Wildlife ,3,23406,21299,9
+483,Splendid Rameshwaram Tour Package,3,2,Rameshwaram,Rameshwaram ,1,Road  Trip Temple visit Nature Rameshwaram  Temple ,4,14076,12809,9
+484,elightful Ooty Holiday Package,5,4,Coorg,"Coorg , Ootacamund ",2,Sightseeing Adventure Mudumalai  National  Park Nature ,3,18715,16469,12
+485,Cheerful Cherrapunji Tour Package,4,3,Shillong,"Shillong ,Cherrapunjee ",2,Sightseeing Nature Waterfalls Hill station Lakes Budget,3,17032,15499,9
+486,Incredible Rajasthan Tour Package,5,4,Udaipur,"Udaipur ,Kumbhalgarh ,Chittorgarh ",3,Family Historical Sightseeing Forts Boating Nature ,2,11413,10500,8
+487,Religious Haridwar Tour Package,3,2,Rishikesh,"Rishikesh ,Haridwar ",2,Daksh  Temple Pawan  Dham Mansa  Devi  ,3,8653,7874,9
+488,Choose From Our Best Selling Gorgeous Goa Tour Plan For  ,6,5,Goa,Goa ,1,Adventure Water  Activities Beach,4,33548,31200,7
+489,Fantastic Orissa Tour Package,5,4,Bhubaneshwar,"Bhubaneshwar ,Puri ,Bhubaneswar ",3,Sun  Temple Historical Shopping Nature Temple ,2,16363,14399,12
+490,Alluring Kashmir Family Tour Package,9,8,Srinagar,"Srinagar ,Gulmarg ,Sonmarg ,Pahalgam ",4,Night in  Houseboat Adventure Gondola  Ride Nature ,3,38812,35000,10
+491,Exuberant Arunachal Pradesh Tour Package,8,7,Kaziranga,"Kaziranga ,Bhalukpong ,Dirang ,Tawang ,Bomdila ",5,Bomdila  View  Point Adventure Sightseeing Lakes ,2,42307,38499,9
+492,Unique Leh-Ladakh Tour Package,10,9,Srinagar,"Srinagar ,Kargil ,Leh ,Chuchot Village ,Nubra Valley ,Pangong ",6,Offbeat Nature Homestay Adventure Chuchot  Village ,4,52746,47999,9
+493,Captivating Tawang Tour Package,7,6,Bhalukpong,"Bhalukpong ,Dirang ,Tawang ,Bomdila ,Tezpur ",5,Sela pass Hill station Dirang  Dzong Adventure Tawang  ,3,39010,35499,9
+494,Stunning Pelling Tour Package,2,1,Pelling,Pelling ,1,Khecheopalri  Lake Hill station Kanchenjunga  Waterfalls Waterfall ,3,16169,14875,8
+495,Best   Port Blair Tour Package,6,5,Port Blair,Port Blair ,1,Cellular  Jail  Adventure Port Northbay Beach ,3,25110,22850,9
+496,Breathtaking warka Sightseeing Tour Package,5,4,Dwarka,"Dwarka ,Veraval ,Ahmedabad ",3,Dwarka  Temples Adventure Kirti  Mandir Nature ,3,20862,18984,9
+497,elightful Munnar Thekkady Kerala Family Package,6,5,Munnar,"Munnar ,Thekkady ,Alleppey ",3,Jungle  Safari Nature Adventure Hill station Sightseeing ,3,20787,18500,11
+498,Exciting Mussoorie Tour Package,5,4,Mussoorie,"Mussoorie ,Rishikesh ,Haridwar ",3,Temple  Tour Adventure Local sightseeing Hill station Religious ,3,49038,44625,9
+499,Premium Kashmir Family Package,8,7,Pahalgam,"Pahalgam ,Srinagar ,Gulmarg ",3,Patnitop Adventure River  Rafting Nature Shikara  ,2,32746,31000,5
+500,An Enjoyable Shillong Honeymoon,3,2,Shillong,Shillong ,1,Kamakhya  Temple Water  Activities Shillong Sightseeing ,3,18131,16499,9
+501,Exciting Haridwar And Rishikesh Package,3,2,Rishikesh,"Rishikesh ,Haridwar ",2,Historical  Sightseeing Adventure Camping Nature Temple  ,3,11290,10500,7
+502,Spellbinding Guwahati Tour Package,3,2,Guwahati,Guwahati ,1,Sightseeing Adventure Temples Nature Zoo Hill stationshopping ,3,13736,12500,9
+503,Excellent agaland Honeymoon,6,5,Dimapur,"Dimapur ,Kohima ",2,Dimapur Adventure Kohima Nature Tuophema Hill station ,3,39010,35499,9
+504,Best Golden Triangle Tour Package,6,5,Agra,"Agra ,New Delhi ,Amritsar ",3,Adventure Nature Religious Golden  Temple Budget,3,50537,46999,7
+505,Udaipur Mount Abu Tour Package,5,4,Udaipur,"Udaipur ,Mount Abu ",2,Adventure Sightseeing Nature,3,18094,15000,17
+506,Explore Gangtok & orth Sikkim,8,7,Gangtok,"Gangtok ,Lachen ,Lachung ,Darjeeling ",4,Waterfalls Adventure Picturesque sights Nature Lakes Waterfall ,2,61900,56948,8
+507,ortheast Tour Package,5,4,Shillong,"Shillong ,Cherrapunjee ,Guwahati ",3,Adventure Sightseeing Nature,3,15948,14500,9
+508,Shimla Tour Package,5,4,Shimla,"Shimla ,New Delhi ",2,Kali  Tibba Nature Jakhu  Temple Adventure ,3,26595,24999,6
+509,Ooty Tour Package,3,2,Ooty,Ooty ,1,Adventure Nature Hill station Budget,2,16418,15433,6
+510,Ladakh Tour Package,8,7,Leh,"Leh ,Hunder ,Pangong ",3,Gurudwara  Pathar  Sahib Adventure Khardungla  Pass ,3,38709,35999,7
+511,Thrilling ehru Trophy Boat Race Package,3,2,Alleppey,Alleppey ,1,Nature Historical,3,9000,7200,20
+512,Karnataka: A Spellbinding Experience,3,2,Coorg,Coorg ,1,  Arrival Hill station Forest  Trail Water  ,5,23461,21350,9
+513,Alleppey Tour Package,2,1,Alleppey,Alleppey ,1,Golden beaches Adventure City  Tour Nature Beach ,3,7533,6930,8
+514,Stupendous Manali Independence ay Package,4,3,Manali,Manali ,1,Adventure Hill station Nature,3,11813,10999,7
+515,A Voyage into Serenity: Kerala Tour,6,5,Munnar,"Munnar ,Thekkady ,Alleppey ,Cochin ",4,Green  Valley Adventure Beach Nature Lakeslandscape ,4,19491,18127,7
+516,Invigorating Karnataka Honeymoon,6,5,Ooty,"Ooty ,Kodaikanal ",2,Ideal for couples Adventure Sightseeing Nature Road  Trip ,3,22366,20129,10
+517,Joyous Kerala Tour Package,6,5,Munnar,"Munnar ,Alleppey ,Kovalam ",3,  Analothbhave  Mathe  Church Hill station Halcyon  ,3,17177,15116,12
+518,Wonderful Kerala Family Package,4,3,Munnar,"Munnar ,Alleppey ",2,Backwaters Adventure Jungle  Safari Nature Waterfalls ,3,12263,11159,9
+519,Picture Perfect Family Trip of Kerala,7,6,Cochin,"Cochin ,Munnar ,Thekkady ,Alleppey ",4,Adventure Nature Sightseeing Cruises Hill station Houseboat  ,3,21978,20000,9
+520,Kumarakom Houseboat Package,5,4,Kovalam,"Kovalam ,Kumarakom ",2,Adventure Nature Sightseeing Budget,3,17184,15809,8
+521,Paradisiacal Honeymoon,5,4,Munnar,"Munnar ,Thekkady ,Alleppey ",3,  Arrival Water  Activities Sightseeing Adventure ,3,18681,17000,9
+522,Lansdowne: The Perfect Retreat,2,1,Lansdowne,Lansdowne ,1,Adventure Jungle  Trail Shopping Nature Hill station ,3,6923,6300,9
+523,Rameshwaram Sightseeing Tour Package,3,2,Rameshwaram,Rameshwaram ,1,Hanuman  Temple Religious Architecture Historical Pamban  ,2,15484,14090,9
+524,Munnar Local Tour Package,3,2,Munnar,Munnar ,1,Hill station Nature Mountains,3,7446,6999,6
+525,Spellbinding Lansdowne Tour Package,2,1,Lansdowne,Lansdowne ,1,Sightseeing Hill station Nature Religious Family  Trip ,3,9701,8925,8
+526,Golden Triangle Special Offer Trip Package,6,5,Agra,"Agra ,Jaipur ,New Delhi ",3,Adventure Sightseeing Monuments,3,20265,15999,21
+527,Spellbinding Coorg Family Tour Package,6,5,Ooty,"Ooty ,Coorg ",2,Wax  World Nature Deer  Park Mudumalai  ,4,37538,34160,9
+528,Golden Triangle  Star Tour Package,6,5,New Delhi,"New Delhi ,Agra ,Jaipur ",3,Adventure Nature Religious Luxury,5,117391,108000,8
+529,Mesmerizing Ooty Honeymoon,3,2,Ooty,Ooty ,1,Nature Adventure Coonoor Hill station Mysore  Palace ,3,18098,16469,9
+530,Port Blair City Tour Package,3,2,Port Blair,Port Blair ,1,Adventure Water  Activities Island Budget,4,18505,17210,7
+531,Sikkim Adventurous Tour Package,6,5,Gangtok,"Gangtok ,Lachen ,Lachung ",3,Valleys Adventure Waterfalls Nature Mountains  V ,3,57100,52532,8
+532,Splendid Goa Tour Package,3,2,Goa,Goa ,1,Fort  Aguada Adventure Calangute  Beach Water  ,3,9032,8400,7
+533,Joyous Kodaikanal Tour Package,7,6,Coorg,"Coorg ,Ooty ,Kodaikanal ",3,Coorg sightseeing Adventure Ooty Nature Coonoor Hill station ,3,30164,27449,9
+534,Scintillating orth-East Family Tour,6,5,Darjeeling,"Darjeeling ,Gangtok ",2,Mt.  Kanchendzonga Teesta  River Hanuman  Tok ,2,64704,58234,10
+535,Enchanting Mussoorie Family Package,8,7,Dehradun,"Dehradun ,Auli ,Mussoorie ,Dhanaulti ",4,Deer  Park Adventure Skiing Nature Road  ,3,45000,40950,9
+536,Fully Explore Godâs Own Country,6,5,Munnar,"Munnar ,Thekkady ,Alleppey ,Kovalam ",4,Waterfalls Houseboat  Stay Adventure Tea  Estate ,3,19538,17780,9
+537,Gangtok Tour Package,3,2,Gangtok,Gangtok ,1,Adventure Nature Hill station Luxury,5,79836,75046,6
+538,Super-fun Family Holiday in Kovalam Kerala,5,4,Cochin,"Cochin ,Kumarakom ,Kovalam ",3,Adventure Nature Sightseeing Cruises Backwaters Family ,3,14983,13485,10
+539,epal Family Tour Package,7,6,POKHARA,"POKHARA ,kathmandu ,Sauraha ,Gorakhpur ",4,Adventure Hill station Wildlife Mountains  Nature Cultural ,3,28241,25699,9
+540,Sikkim Tour Package,5,4,Gangtok,"Gangtok ,Darjeeling ",2,Hill  Station Nature Lake Hill station Mountains  ,4,61859,57529,7
+541,Leh Ladakh Road Trip Package,10,9,Manali,"Manali ,Jispa ,Leh ,Nubra Valley ,Pangong ",5,Hadimba  Temple Adventure Gurudwara  Pathar  Sahib ,3,48912,44999,8
+542,Lansdowne Tour Package,3,2,Lansdowne,Lansdowne ,1,Bhulla  Taal  Lake Adventure Hills Nature ,3,9596,8924,7
+543,Rajasthan Tour Package,8,7,New Delhi,"New Delhi ,Agra ,Ranthambore ,Jaipur ",4,National  Monument Nature Forts Adventure Religious  ,3,45161,42000,7
+544,An Enjoyable Himachal Family Trip,6,5,Shimla,"Shimla ,Manali ",2,Mall  Road Hill station Churches Religious Rohtang  ,3,37978,34560,9
+545,ivine Himachal Trip Package,9,8,Shimla,"Shimla ,Manali ,Dharamshala ,Dalhousie ,Khajjiar ",5,Adventure Ayurvedic Hill station Nature Sightseeingshopping Water  ,4,32026,29144,9
+546,arjeeling Tour Package,6,5,Gangtok,"Gangtok ,Darjeeling ",2,Tsomgo  Lake Nature Teesta  River Adventure ,4,41986,39047,7
+547,Romantic Manali Tour Package,5,4,Manali,Manali ,1,Manali Religious Solang  Valley Adventure Rohtang  ,3,34813,31680,9
+548,An Enjoyable Munnar Family Trip,3,2,Munnar,Munnar ,1,Mattupetty  Dam Hill station Echo  Point Adventure ,3,8789,7998,9
+549,Best-Selling Tirupati  ay Package,2,1,Tirupati,Tirupati ,1,Nature Religious Historical Budget,3,12135,11407,6
+550,Andaman Tour Package,4,3,Port Blair,"Port Blair ,Havelock ",2,Cellular  Jail  Water  Activities Chidiya  Tapu ,3,16663,15497,7
+551,Captivating Munnar Kovalam Family Tour ,5,4,Munnar,"Munnar ,Kovalam ",2,Nature Hill station Unlimited adventure Hill  Station Adventure ,3,12723,11196,12
+552,Astounding Uttarakhand Tour Package,5,4,Mussoorie,"Mussoorie ,Rishikesh ,Haridwar ",3,Kempty  Falls Mall  Road George  Everest hill ,3,15806,14700,7
+553,Kovalam and Kumarakom Houseboat Tour Package,5,4,Kovalam,"Kovalam ,Kumarakom ",2,Sightseeing Hill station Nature Houseboat Leisure  Time ,3,14818,13484,9
+554,Ecstatic Goa Honeymoon,3,2,Goa,Goa ,1,Fort  Aguada Adventure Calangute  Beach Water  ,4,10752,9999,7
+555,Jammu And Kashmir Special Tour Package,4,3,Pahalgam,"Pahalgam ,Gulmarg ,Srinagar ",3,Leisure  Day Adventure Sightseeing Nature Hill station ,4,31868,29000,9
+556,Enchanting haramshala Tour Package,4,3,Dharamshala,Dharamshala ,1,Sightseeing Adventure Nature Waterfalls Hill station Temples ,2,22328,19872,11
+557,A Rejuvenating Escape To Shimla,5,4,Shimla,Shimla ,1,  Arrival Adventure Sightseeing Nature Hill  ,2,25761,23443,9
+558,Relaxing Weekend: Lansdowne iaries,2,1,Lansdowne,Lansdowne ,1,Jungle  Trail Adventure Gandhi  Chowk Hill station ,3,7338,6824,7
+559,Romantic Athirapally Honeymoon,8,7,Athirapally,"Athirapally ,Munnar ,Alleppey ,Kovalam ",4,Tea plantations Hill station Padmanabhaswamy  Temple Wildlife Mattupetty  ,3,27900,25110,10
+560,South Sikkim Tour Package,5,4,Gangtok,Gangtok ,1,Nature Tsomgo  Lake Namchi  Hill Adventure ,3,38327,36027,6
+561,Andaman Tour Package,8,7,Port Blair,"Port Blair ,Havelock Island ,Neil Island ",3,Breakfast Nature Water  Activities Cruises Sightseeing ,3,25615,23310,9
+562,Chennai Honeymoon,2,1,Mahabalipuram,Mahabalipuram ,1,Caves Adventure Krishna temple Nature Art &  Architecture ,3,12535,11407,9
+563,elightful elhi Tour,6,5,New Delhi,"New Delhi ,Agra ,Jaipur ",3,Historical  Sightseeing Hill station Forts Adventure Road journey ,4,18681,17000,9
+564,Best Selling ainital Holidays For A Memorable Experience,4,3,Jim Corbett,"Jim Corbett ,Nainital ",2,Jeep  Safari Nature Lakes Adventure Temples  ,3,12365,11499,7
+565,Holiday Package,3,2,Kodaikanal,Kodaikanal ,1,Shopping Water  Activities Sightseeing Adventure Leisure  ,3,16758,15250,9
+566,Charismatic Mount Abu Family Tour Package,4,3,Udaipur,"Udaipur ,Mount Abu ",2,Lake  Picholalake visit Dilwara  Jain  Temple Nakki  ,3,10989,10000,9
+567,Kullu Manali Volvo Tour Package,4,3,Manali,Manali ,1,Adventure Nature Hill station Budget,3,10326,9500,8
+568,Amazing Karnataka Tour Package,5,4,Coorg,"Coorg ,Ooty ",2,Rajaâs  Seat Dolphin  Nose Simâs  Park ,3,15384,13999,9
+569,Mahabaleshwar Panchgani Sightseeing Tour Package,4,3,Mahabaleshwar,Mahabaleshwar ,1,Hills Adventure Sightseeing Nature Forts F ,4,23626,21500,9
+570,Ladakh Tour Package,7,6,Leh,"Leh ,Hunder ,Pangong ",3,Gurudwara  Pathar  Sahib Adventure Pangong  Lake ,3,32256,29998,7
+571,Gangtok Tour Package,5,4,Gangtok,Gangtok ,1,Tsomgo  Lake Adventure Baba  Mandir Nature ,3,58109,54041,7
+572,arjeeling Gangtok Family Tour Package,6,5,Darjeeling,"Darjeeling ,Gangtok ",2,Tsomgo  Lake Nature Ganesh  Tok Adventure ,3,56688,53287,6
+573,Whimsical Honeymoon,3,2,Kodaikanal,Kodaikanal ,1,Sightseeing Adventure Shopping Nature Leisure  Time ,4,19439,17689,9
+574,Best eal Goa Tour Package,4,3,Goa,Goa ,1,Adventure Sightseeing Nature,3,19800,18000,9
+575,Idyllic Manali Family Package,4,3,Manali,Manali ,1,Rohtang  Pass Historical Solang  Valley Adventure ,2,11472,10440,9
+576,A Simple and Serene Tamil adu Tour Package,4,3,Ooty,Ooty ,1,Nature Hill station Mountains  Historic Waterfall Temples ,3,22120,20129,9
+577,Goa Tour Package,3,2,Goa,Goa ,1,Aguada  Fort Naturecoco beach Adventure Anjuna  Beach ,4,11086,10199,8
+578,Heavenly Jammu And Kashmir Family Package,5,4,Srinagar,"Srinagar ,Sonmarg ",2,Shikara  Ride Hill station Sightseeing Water  Activities ,4,46154,42000,9
+579,Marvelous Munnar Family Package,3,2,Munnar,Munnar ,1,Hill  Station Water  Activities Sightseeing Adventure ,3,8789,7998,9
+580,South India Budget Tour Package,3,2,Coorg,"Coorg ,Bangalore ",2,Adventure Nature Sightseeing Budget,3,15873,14762,7
+581,Thrilling Leh Ladakh Family Tour Package,8,7,Srinagar,"Srinagar ,Kargil ,Leh ,Nubra Valley ",4,Ideal for families Nature Adventure Himalayas Hill station Historical  ,2,35554,31999,10
+582,Shimla Manali Tour Package,6,5,Shimla,"Shimla ,Manali ",2,Adventure Hill station Nature Budget,3,18279,16999,7
+583,Enchanting Rajasthan Family Tour Package,6,5,Jaipur,"Jaipur ,Pushkar ,Ranthambore ",3,Majestic  View Camel  Ride Elephant rides Shopping ,4,28571,26000,9
+584,Ladakh Tour Package,4,3,Leh,"Leh ,Pangong ,Ladakh ",3,Pangong  Lake Adventure Magnetic  Hill Nature ,3,20429,18999,7
+585,Gangtok Tour Package,4,3,Gangtok,Gangtok ,1,Adventure  Activities Nature Monasteries Adventure Mountains  ,4,28437,26731,6
+586,Lovely Lansdowne Tour Package,2,1,Lansdowne,Lansdowne ,1,Nature Hill station Adventure Shopping Trekking Sightseeing ,3,6923,6300,9
+587,Marvelous Honeymoon,4,3,Munnar,"Munnar ,Alleppey ",2,Scenic  Beauty Tea plantations Nature Shopping Wildlife ,3,14106,12836,9
+588,Scintillating Kanyakumari-Kovalam Honeymoon,4,3,Kovalam,"Kovalam ,Kanyakumari ",2,Romantic Nature Unlimited adventure City  Tour Beach  ,3,10885,9797,10
+589,Best Andaman     Tour Package,3,2,Port Blair,"Port Blair ,Havelock ",2,Beaches Adventure Snorkeling Water  Activities Scuba- ,3,15505,14265,8
+590,Kerala Tour Package,7,6,Munnar,"Munnar ,Thekkady ,Alleppey ,Kovalam ",4,Beach Historical Waterfalls Adventure Tea  Museum ,3,20987,19728,6
+591,Best Selling Gangtok Getaways For A Refreshing Break,3,2,Gangtok,Gangtok ,1,Nathula  Pass Adventure Tsomgo  Lake Hill station ,3,23931,22017,8
+592,Ecstatic Shimla Family Package,4,3,Shimla,Shimla ,1,Green  Valley Adventure Mahasu  Peak Nature ,4,17406,15839,9
+593,South Weekend Trip Package,4,3,Coorg,Coorg ,1,Adventure Nature Sightseeing,3,20783,16499,21
+594,Perfect Family Tour To Lansdowne With Family,2,1,Lansdowne,Lansdowne ,1,Nature Adventure Jungle  Trail Shopping Hill station ,4,5192,4725,9
+595,Enthralling Rameshwaram Tour Package,3,2,Rameshwaram,Rameshwaram ,1,Sightseeing Adventure Temples Nature Shopping Historical ,4,12736,11590,9
+596,Refreshing Ranikhet Tour Package,2,1,Ranikhet,Ranikhet ,1,Ideal for friends Hill station Ideal for families Nature Adventure Sightseeing ,3,7418,6825,8
+597,Chopta Tungnath Chandrashila Camping Tour Package,2,1,Chopta,Chopta ,1,Ram  Jhula Trekking Laxman  Jhula Adventure ,2,6847,6299,8
+598,Auli Honeymoon,4,3,Auli,Auli ,1,Auli ropeway Skiing Lake Adventure Nature Romantic ,3,13548,12600,7
+599,Himachal Tour Package,3,2,Shimla,Shimla ,1,Mountains  Adventure Watersports Nature Snow  View  ,3,10215,9500,7
+600,azzling Kerala Trip Package,4,3,Munnar,"Munnar ,Alleppey ",2,Munnar Ayurvedic Alleppey Nature Adventure Religious ,3,11868,10800,9
+601,ive Into The Serenity Of Manali,4,3,Manali,Manali ,1,Adventure sports Adventure Rohtang  Pass Nature Solang  ,3,12365,11499,7
+602,Riveting Ladakh Tour Package,7,6,Leh,"Leh ,Nubra Valley ,Pangong ",3,Khardung  La Historical Pangong  Tso Religious ,3,27220,24498,10
+603,    Ladakh Tour Package,5,4,Leh,"Leh ,Nubra Valley ,Pangong ",3,Sightseeing Adventure Nature Himalayas Hill station Religious ,3,27173,24999,8
+604,ivine Char ham Tour Package,12,11,Haridwar,"Haridwar ,Barkot ,Uttarkashi ,Sitapur ,Badrinath ,Srinagar Garhwal ",6,Temple  Tour Trekking Adventure Sightseeing Nature ,2,25384,23099,9
+605,Spiti Valley Road Trip Tour Package,9,8,Shimla,"Shimla ,Narkanda ,Sangla ,Kalpa ,Tabo ,Kaza ,Chandra Tal ",7,Himalayan  National  Park Nature Valleys Adventure ,3,47952,44595,7
+606,Enjoying the Vibes at Alleppey,3,2,Alleppey,Alleppey ,1,Alleppey Adventure Sightseeing Nature Houseboat  Stay ,3,16673,15172,9
+607,Memorable Holiday To orth Sikkim,8,7,Gangtok,"Gangtok ,Lachen ,Lachung ,Darjeeling ",4,Tsomgo  Lake Waterfall Baba  Mandir Nature ,2,61900,56948,8
+608,"Joyous Munnar, Kovalam Tour Package",6,5,Munnar,"Munnar ,Thekkady ,Kovalam ",3,Eravikulam  National  Park Water  Activities Tea gardens ,3,16909,14880,12
+609,Gangtok Kalimpong arjeeling Family Package,6,5,Gangtok,"Gangtok ,Kalimpong ,Darjeeling ",3,Tsomgo  Lake Nature Durpin  Dara Adventure ,2,52836,49137,7
+610,South India Sightseeing Tour Package,6,5,Ooty,"Ooty ,Coorg ,Mysore ,Bangalore ",4,Adventure Water  Activities Nature Budget,4,32467,30194,7
+611,Special Shimla Tour Package,5,4,Shimla,Shimla ,1,Nature  Park Adventure Nature Sightseeing Hill station ,3,38294,34848,9
+612,Mystical Mysore Sightseeing Tour Package,5,4,Ooty,"Ooty ,Mysore ",2,Sightseeing Nature Valleys Adventure Ancient architecture Historical ,3,20780,18910,9
+613,Gujarat Tour Package,7,6,Ahmedabad,"Ahmedabad ,Dwarka ,Veraval ,Diu ,Sasan Gir ",5,Gandhi  J I  Ashram Religious Gir  ,3,27795,25849,7
+614,Best Chopta Tungnath Chandrashila Tour Package,2,1,Chopta,Chopta ,1,Trekking Adventure Bird  Watching Nature Adventure  ,2,5645,5250,7
+615,Sikkim arjeeling Gangtok Trip Package,6,5,Gangtok,"Gangtok ,Darjeeling ",2,Adventure Nature Hill station,3,126464,109212,14
+616,Sikkim Tour Package,8,7,Gangtok,"Gangtok ,Lachen ,Lachung ,Darjeeling ",4,Lake Adventure Mountainous ranges Nature Natural  Beautylandscapegroup ,2,61900,56948,8
+617,ainital Tour Package,3,2,Nainital,Nainital ,1,Adventure Nature Hill station Lakes Religious Budget,3,9130,8400,8
+618,Mesmerising Ooty Sightseeing Tour Package,4,3,Ooty,Ooty ,1,Wax  World Hill station Deer  Park Water  ,3,16758,15250,9
+619,Ooty Tour Package,2,1,Ooty,"Ooty ,Coonoor ",2,Deer  Park Nature Dolphin  Nose Adventure ,3,11544,10736,7
+620,Coorg Tour Package,2,1,Coorg,Coorg ,1,Churches Adventure Waterfalls Nature Jungle Sightseeing ,3,10101,9394,7
+621,Panchgani Honeymoon,3,2,Panchgani,Panchgani ,1,River  Rafting Adventure Wildlife safari Water  Activities ,3,11290,10500,7
+622,Charismatic Kerala Trip Package,5,4,Munnar,"Munnar ,Thekkady ,Alleppey ",3,Waterfalls Nature Houseboat  Stay Adventure Backwaters ,3,14991,13642,9
+623,Golden Triangle Tour Package,6,5,Agra,"Agra ,New Delhi ,Varanasi ",3,Nature Religious Historical Budget,3,20108,18499,8
+624,Pondicherry Sightseeing Tour Package,3,2,Pondicherry,Pondicherry ,1,Botanical  Garden Adventure War  Memorial Nature ,2,15484,14090,9
+625,Incredible haramshala Honeymoon,4,3,Dharamshala,Dharamshala ,1,Bhagsu  Nag  Falls Nature Naddi  Village  ,3,20887,19007,9
+626,Mussoorie Tour Package,3,2,Mussoorie,Mussoorie ,1,Waterfalls Nature Company  Garden Adventure Hills ,3,13548,12600,7
+627,Blissful Lansdowne Honeymoon,2,1,Lansdowne,Lansdowne ,1,Nature Adventure Boating Hill station Historical  Tour ,4,12692,11550,9
+628,Head out on a thrill-seeking holiday in Jim Corbett,3,2,Jim Corbett,Jim Corbett ,1,Jeep  Safari Wildlife Jungle  Safari Nature ,4,11413,10500,8
+629,Stunning Kerala Trip Package,4,3,Munnar,"Munnar ,Alleppey ",2,Fort  Cochin attractions Adventure Munnar Nature Alleppey ,3,11868,10800,9
+630,Best arjeeling     Tour Package,5,4,Gangtok,"Gangtok ,Darjeeling ",2,Mirik Nature Mountains  Adventure Batasia  Loop ,3,24467,22754,7
+631,Enticing Tour To Romantic Coorg,5,4,Coorg,"Coorg ,Ooty ",2,Shopping Sightseeing Nature Leisure  Time Hill station ,3,22120,20129,9
+632,Family Getaway To Fascinating Coorg,3,2,Coorg,Coorg ,1,  Arrival Adventure Shopping Nature Sightseeing ,3,19439,17689,9
+633,Scintillating Ranikhet Tour Package,3,2,Nainital,"Nainital ,Ranikhet ",2,Scenic roadtrip Nature Hills Lakes Ideal for families Religious ,3,9807,8924,9
+634,Gangtok Tour Package,7,6,Gangtok,"Gangtok ,Pelling ,Darjeeling ",3,Sightseeing Adventure Nature Hill station Trekking Historical ,3,80532,74089,8
+635,Himachal Tour Package,9,8,Shimla,"Shimla ,Manali ,Dharamshala ,Dalhousie ",4,Adventure Nature Hill station Budget,3,32609,30000,8
+636,Pleasurable Kashmir Tour Package,5,4,Srinagar,Srinagar ,1,Sightseeing Glaciers Mountains  Cable  Car  Ride ,4,46154,42000,9
+637,"Enjoy The Beautiful Serene Views Of ainital, Ranikhet And Kausani",5,4,Nainital,"Nainital ,Ranikhet ,Kausani ",3,Hill  Station Hill station Adventure Wildlife Nature ,3,20769,18900,9
+638,Ladakh Car Trip Package,10,9,Manali,"Manali ,Jispa ,Leh ,Nubra Valley ,Pangong ",5,Hadimba  Devi  Temple Adventure Magnetic  Hill ,3,21738,19999,8
+639,Sikkim is A ature Loverâs Paradise,8,7,Gangtok,"Gangtok ,Ravangla ,Pelling ,Kalimpong ",4,Tsomgo  Lake Adventure Baba  Mandir Nature ,2,50530,46488,8
+640,Mystical Tirupati Tour Package,3,2,Chennai,"Chennai ,Tirupati ",2,Chennai Religious Snake  Park Historical Marine  ,2,14009,12748,9
+641,Welcome To The Jungle-A Corbett Tour Package,2,1,Jim Corbett,Jim Corbett ,1,Jungle  Safari Hill station Corbett  Museum Adventure ,4,5769,5250,9
+642,Goa eal Tour Package,4,3,Goa,Goa ,1,Adventure Sightseeing Nature,3,16550,14999,9
+643,Enchanting Mount Abu Honeymoon,4,3,Udaipur,"Udaipur ,Mount Abu ",2,Hill  Station Hill station Sightseeing Adventure Historic sightseeing ,4,13186,11999,9
+644,Shillong Tour Package,3,2,Shillong,Shillong ,1,Nature Adventure Hill station Mountainscuisine  Cultural Sightseeing ,3,16666,15499,7
+645,A Mesmerizing Shillong Honeymoon,3,2,Shillong,Shillong ,1,Guwahati Historical Cherrapunjee Elephant  Falls Nature ,3,19230,17499,9
+646,Appealing Thekkady Kochi Munnar Honeymoon,5,4,Munnar,"Munnar ,Thekkady ,Cochin ,Kochi ",4,Hill station Nature Wildlife safari Wildlife Historical  Sites ,3,17912,16300,9
+647,Magical Leh-Ladakh Honeymoon,7,6,Leh,"Leh ,Kargil ,Srinagar ",3,Romantic Road  Trip Private  Cab Adventure ,3,34780,31998,8
+648,Goa Honeymoon,4,3,Goa,Goa ,1,Water  Activities Adventure Beach Budget,3,28695,26399,8
+649,Breathtaking Jim Corbett Sightseeing Tour Package,3,2,Jim Corbett,Jim Corbett ,1,Sightseeing Nature Wildlife safari Wildlife Temple Adventure ,4,9807,8924,9
+650,An Amazing Odisha Tour Package,7,6,Bhubaneshwar,"Bhubaneshwar ,Puri ",2,Puri tour Nature Local sightseeing Religious Sun  Temple ,3,24725,22500,9
+651,Enchanting Uttarakhand Honeymoon,4,3,Mussoorie,"Mussoorie ,Rishikesh ",2,Gita  Bhawan Ganga  Aarti at  Parmarth  Niketan ,3,16153,14699,9
+652,Majestic Meghalaya Honeymoon,4,3,Shillong,"Shillong ,Cherrapunjee ",2,Waterfalls Historical Sightseeing Adventure Nature Caves ,3,21978,20000,9
+653,Magical Kerala Honeymoon,6,5,Munnar,"Munnar ,Thekkady ,Kumarakom ,Kochi ",4,Hills Cruises Wildlife Hill station Waterfalls Safari ,3,23646,19592,17
+654,"Astonishing Munnar, Kovalam Honeymoon",6,5,Munnar,"Munnar ,Thekkady ,Kovalam ",3,Mattupetty  Dam Wildlife Eravikulam  National  Park ,3,16484,14836,10
+655,Panoramic Kodaikanal Family Tour,3,2,Kodaikanal,Kodaikanal ,1,Sightseeing Shopping Leisure  Day Lakes Road journey ,2,15417,14029,9
+656,Fantastic Lansdowne Tour Package,3,2,Lansdowne,Lansdowne ,1,Nature Adventure Hill station Boating Campingshopping Hiking ,3,9230,8399,9
+657,Romantic Jim Corbett ational Park Honeymoon,3,2,Jim Corbett,Jim Corbett ,1,Sightseeing Nature Adventure Hill station Safari Wildlife ,4,18430,17324,6
+658,A Fun-Filled   Tour To Sikkim,10,9,Gangtok,"Gangtok ,Lachen ,Lachung ,Pelling ,Darjeeling ",5,Tsomgo  Lake Adventure Temple Nature Valleys ,3,78730,73219,7
+659,Rameshwaram Tour Package,2,1,Rameshwaram,Rameshwaram ,1,Sri  Meenakshi  Temple Nature Religious  Tour ,3,11544,10736,7
+660,Golden Triangle Tour Package,10,9,New Delhi,"New Delhi ,Agra ,Jaipur ,Jodhpur ,Udaipur ",5,Nature Adventure Religious Budget,3,43478,40000,8
+661,Gangtok Tour Package,6,5,Gangtok,"Gangtok ,Darjeeling ",2,Tiger  Hill Nature Teesta  River Adventure ,4,48737,45325,7
+662,Best Selling Gujarat Sightseeing Tour Package,5,4,Jamnagar,"Jamnagar ,Dwarka ,Veraval ,Sasan Gir ,Gir ",5,Temple Nature Jungle  Safari Water  Activities ,3,20549,18700,9
+663,Extravagant Karnataka Honeymoon,6,5,Ooty,"Ooty ,Coorg ,Mysore ",3,Mysore  Palace Adventure Doddabetta  Peak Nature ,3,22120,20129,9
+664,Kerala Tour Package,9,8,Kochi,"Kochi ,Munnar ,Thekkady ,Alleppey ,Kovalam ",5,Beach  Tour Adventure Lakes Nature Sunset ,3,25798,23992,7
+665,hanaulti Tour Package,3,2,Dhanaulti,Dhanaulti ,1,Eco  Park Waterfalls Jain  Temples Nature ,3,9032,8400,7
+666,Kashmir Tour Package,4,3,Srinagar,Srinagar ,1,Nature Shikara  Ride Mountains  Adventure Shalimar  ,3,15426,14500,6
+667,Charismatic Kerala Family Tour ,5,4,Munnar,"Munnar ,Thekkady ,Alleppey ",3,Arrival Nature Sightseeing Adventure Backwaters Water  ,4,14307,13019,9
+668,Enjoy An Enchanting Vacation In Haridwar Rishikesh,2,1,Rishikesh,Rishikesh ,1,Adventure Sightseeing Hill station Religious  Tour Water  ,3,9230,8399,9
+669,Jammu And Kashmir Family Getaway With Vaishno evi,7,6,Katra,"Katra ,Srinagar ",2,Dal  Lake Mughal  Gardens Gondola  Ride ,3,35165,32000,9
+670,Spellbinding Kashmir Tour Package,3,2,Srinagar,Srinagar ,1,Himalayas Hill station Sightseeing Nature Shikara  Ride ,4,21739,20000,8
+671,Exclusive   Shimla Tour Package,3,2,Shimla,Shimla ,1,Mountains  Adventure Watersports Hill station Snow  View  ,3,17741,16499,7
+672,Royal Rajasthan Tour Package,4,3,Jodhpur,"Jodhpur ,Jaisalmer ",2,Jaisalmer Adventure Jodhpur Historical Sonar  Kila ,3,10989,10000,9
+673,Amazing Himachal Tour Package,9,8,Shimla,"Shimla ,Manali ,Dharamshala ,Dalhousie ",4,Hadimba  Temple Hill station Rohtang  Pass Nature ,4,101739,93600,8
+674,Kanatal Tour Package,5,4,Rishikesh,"Rishikesh ,Dehradun ,Mussoorie ",3,Deer  Park Adventure Dam Nature Caves ,4,15978,14700,8
+675,Andaman Tour Package,5,4,Port Blair,"Port Blair ,Havelock ",2,Cellular  Jail  Adventure Beach  Tour Water  ,2,19577,18207,7
+676,Kochi City Tour Package,2,1,Kochi,Kochi ,1,Adventure Nature Best sellers,3,3613,3324,8
+677,Mesmerizing Coorg Family Tour Package,5,4,Coorg,"Coorg ,Ooty ",2,Dubare  Reserve  Forest Water  Activities Wax  ,5,39549,35990,9
+678,Exciting Family Holiday in Leh-Ladakh,7,6,Leh,"Leh ,Kargil ,Srinagar ",3,Ideal for families Nature Historical Adventure Road  Trip ,3,33332,31999,4
+679,Panchgani Sightseeing Tour Package,3,2,Panchgani,Panchgani ,1,Local sightseeing Adventure Waterfalls Nature Caveslandscape Forts,4,15934,14500,9
+680,Exclusive Kashmir Tour Package,7,6,Srinagar,"Srinagar ,Gulmarg ,Pahalgam ",3,Dal  Lake Hill station Kashmiri  Cuisine Nature ,3,41935,39000,7
+681,Rejuvenating haramshala Family Package,5,4,Amritsar,"Amritsar ,Dharamshala ,Dalhousie ",3,Adventure Nature Hill station Family Sightseeing Budget,3,18791,17100,9
+682,Jim Corbett Tour Package,2,1,Jim Corbett,Jim Corbett ,1,Museumgroup Jungle  Safari Temple Wildlife Nature ,4,7903,7350,7
+683,Memorable Family Trip To Cochin,9,8,Cochin,"Cochin ,Munnar ,Thekkady ,Alleppey ,Kumarakom ,Kovalam ,Kanyakumari ",7,Mattancherry  Palace Adventure St.  Francis  Church ,4,29805,27123,9
+684,Lavasa Lonavala Tour Package,4,3,Lonavala,Lonavala ,1,Wax  Museum Nature Dam Hill station Watersports ,3,15934,14500,9
+685,Spectacular Coorg Summer Special Honeymoon,6,5,Ooty,"Ooty ,Coorg ,Mysore ",3,Ooty Water  Activities Sightseeing Adventure Mysore  ,4,27483,25010,9
+686,Kasauli Tour Package,2,1,Kasauli,Kasauli ,1,Sightseeing Nature Adventure Hill station Historical Religious ,3,9890,9000,9
+687,A Holiday Filled With Adventure At Jim Corbett,3,2,Jim Corbett,Jim Corbett ,1,  Arrival Adventure Leisure Nature Sightseeing ,4,11538,10500,9
+688,The Beauteous Land of Uttarakhand,3,2,Ranikhet,"Ranikhet ,Kausani ",2,Sightseeing Nature Scenic  Landscapes Adventure Leisure  ,2,9807,8924,9
+689,Incredible Haridwar Tour Package,3,2,Haridwar,Haridwar ,1,Sightseeing Religious Nature Hill station Religious  Tour ,3,11290,10500,7
+690,Ravishing Shimla Honeymoon,4,3,Shimla,Shimla ,1,Himalayas Nature Sightseeing Temples Water  Activities ,2,25761,23443,9
+691,Coorg Tour Package,3,2,Coorg,Coorg ,1,Waterfalls Adventure Wildlife Nature Picturesque sights Mountains ,3,15873,14762,7
+692,Enchanting Uttarakhand Tour Package,4,3,Kausani,"Kausani ,Nainital ",2,Nature Loverâs  Point Hill station Naini  Lake ,2,9077,8400,7
+693,A Peaceful haramshala Tour Package,4,3,Dharamshala,Dharamshala ,1,Sightseeing Nature City  Tour Hill station Mountains  ,3,39560,36000,9
+694,Picturesque Kodaikanal Tour Package,6,5,Ooty,"Ooty ,Kodaikanal ",2,Dolphin  Nose Nature Adventure Hills Hill station ,3,20780,18910,9
+695,Pleasing Himachal Tour Package,9,8,Shimla,"Shimla ,Manali ,Dharamshala ,Dalhousie ,Khajjiar ",5,Hill station Adventure Water  Activities Cultural Nature ,4,36484,33200,9
+696,West Sikkim Tour Package,7,6,Gangtok,"Gangtok ,Pelling ,Darjeeling ",3,Culture Adventure Nature Local sightseeing Sightseeinggroup Budget,3,53689,49394,8
+697,Leh Ladakh   Trip Package,7,6,Leh,"Leh ,Nubra Valley ,Pangong ,Kargil ",4,Adventure Sightseeing Nature Campinglandscape Mountains Budget,3,43477,39999,8
+698,Blissful Char ham Chopper Package,6,5,Dehradun,"Dehradun ,Yamunotri ,Gangotri ,Guptakashi ,Badrinath ",5,Himalayas Adventure Temple  Tour Nature Sightseeing ,3,184615,168000,9
+699,Best Selling Kabini Sightseeing Tour For A Refreshing Vacay,3,2,Kabini,Kabini ,1,Sightseeing Adventure Nature Wildlifetemples Religious Budget,3,12650,11765,7
+700,Best Uttarakhand Honeymoon,7,6,Bhimtal,"Bhimtal ,Kausani ,Jim Corbett ",3,Adventure Water  Activities Nature Wildlife Hill station ,3,25374,23624,7
+701,Ladakh   Trip Package,10,9,Manali,"Manali ,Jispa ,Leh ,Nubra Valley ,Pangong ",5,Architecture Scenic  Beauty Nature Gurudwara  Pathar  ,3,48912,44999,8
+702,Get Lost In The Beauty Of Gangtok And arjeeling,5,4,Gangtok,"Gangtok ,Darjeeling ",2,Adventure Sightseeing Nature,3,119612,108854,9
+703,Golden Triangle Tour Package,5,4,New Delhi,"New Delhi ,Agra ,Jaipur ",3,Nature Religious Historical Budget,3,26881,24999,7
+704,    arjeeling Gangtok Pelling Kalimpong Tour Package,5,4,Kalimpong,"Kalimpong ,Zuluk ,Gangtok ",3,Baba  Mandir Nature Tsomgo  Lake Adventure ,2,47627,44769,6
+705,Fanciful Getaway To Astounding Alleppey,3,2,Alleppey,Alleppey ,1,Houseboat Water  Activities Sightseeing Adventure Backwaters ,3,16673,15172,9
+706,Joyous Auli Honeymoon,5,4,Mussoorie,"Mussoorie ,Auli ",2,Skiing Adventure Himalayas Nature Hill station Water  ,3,21346,19425,9
+707,Jammu Katra Patnitop Srinagar Sonmarg Gulmarg Pahalgam Tour Package,7,6,Katra,"Katra ,Pahalgam ,Srinagar ,Jammu ",4,Vaishno  Devi Nature Houseboat Adventure Shikara  ,3,40860,38000,7
+708,Coorg Tour Package,5,4,Coorg,"Coorg ,Ooty ,Bangalore ",3,Doddabetta  Peak Nature Simâs  Park Adventure ,3,19021,17690,7
+709,Idyllic elhi Family Package,3,2,New Delhi,New Delhi ,1,Connaught  Place  Market Nature Akshardham  Temple ,4,10989,10000,9
+710,Exciting Leh Family Getaway,8,7,Leh,"Leh ,Nubra Valley ,Pangong ,Tsomoriri ",4,Nubra  Valley Hill station Pangong  Lake Religious ,3,36591,33298,9
+711,Shirdi Tour Package,2,1,Shirdi,Shirdi ,1,Religious  Tour Religious Temple Nature Sightseeing ,3,5439,4949,9
+712,Himachal Tour Package,7,6,Manali,"Manali ,Shimla ",2,Adventure  Activities Nature Mountains  Adventure Valleysshopping ,4,33871,31500,7
+713,South India Beach Tour Package,3,2,Pondicherry,Pondicherry ,1,Nature Adventure Best sellers Budget,2,18233,16774,8
+714,Astounding Manali Package,5,4,Manali,Manali ,1,Mountains  Adventure Nature Sightseeing Hill station Budget,3,16931,15407,9
+715,Evergreen Coorg and Bangalore Trip,3,2,Coorg,Coorg ,1,Shopping Adventure Sightseeing Nature Leisure  Time ,3,18769,17080,9
+716,Kutch Tour Package,3,2,Kutch,Kutch ,1,Rann of  Kutch Historical Kalo  Dungar Adventure ,3,15053,13999,7
+717,Spiritual Family Getaway To Rameshwaram,3,2,Rameswaram,Rameswaram ,1,Sightseeing Adventure Temples Nature Shopping Historical ,3,14076,12809,9
+718,Best Selling Kabini Wildlife Tour Package,3,2,Mysore,"Mysore ,Kabini ",2,Wildlife safari Adventure Jungle  Safari Nature Boating ,3,18434,16775,9
+719,An Idyllic Honeymoon,7,6,Kochi,"Kochi ,Munnar ,Thekkady ,Kumarakom ,Alleppey ",5,Romantic Hotel check-in Airport  Transfers Breakfast Sightseeing ,4,28124,25593,9
+720,Fantastic Lansdowne Honeymoon,3,2,Lansdowne,Lansdowne ,1,Adventure Nature  Walk Nature Boating Hill station ,4,15000,13650,9
+721,Intimate Ranikhet Honeymoon,3,2,Ranikhet,"Ranikhet ,Kausani ",2,Kainchi  Dham Romantic Chaubatia  Gardensshopping Golf  ,2,9807,8924,9
+722,Exciting Mount Abu Honeymoon,2,1,Mount Abu,Mount Abu ,1,Sightseeing Religious Nature Ideal for couples Adventure Hill  ,3,2365,2199,7
+723,Karnataka And Tamil adu Chronicles,4,3,Ooty,"Ooty ,Mysore ",2,Sightseeing Nature Hill station Wildlife Cultural Mountains  ,3,20780,18910,9
+724,A Idyllic Honeymoon,6,5,Ooty,"Ooty ,Kodaikanal ",2,Sightseeing Historical Shopping Adventure Ooty Nature ,5,27483,25010,9
+725,Chopta eoriatal Tungnath Chandrashila Trekking Tour Package,3,2,Chopta,Chopta ,1,Family Scenery Trekking Sightseeing Adventure Nature ,2,9701,8925,8
+726,Pleasing Family Kerala Holiday Tour,5,4,Kovalam,"Kovalam ,Kumarakom ",2,Adventure Sightseeing Nature Hill station Houseboat  Stay ,3,14928,13435,10
+727,A Scintillating Coorg Family Tour,3,2,Coorg,Coorg ,1,Hill  Station Hill station Adventure Nature Wildlife ,3,18098,16469,9
+728,Golden Triangle   And   Package,4,3,Agra,"Agra ,New Delhi ",2,Adventure Nature Sightseeing,3,14693,11999,18
+729,Spiritual Uttarakhand Tour Package,3,2,Haridwar,"Haridwar ,Rishikesh ",2,Ganga  Arti Adventure Mansa  Devi  Temple ,3,9032,8400,7
+730,Golden Triangle Tour Package,7,6,New Delhi,"New Delhi ,Agra ,Jaipur ",3,Religious Historical Nature Budget,3,34782,31999,8
+731,Refreshing Srinagar Sightseeing Tour Package,3,2,Srinagar,Srinagar ,1,Sightseeing Adventure Shikara  Ride Nature Hill station ,3,12637,11500,9
+732,Kerala Tour Package,8,7,Kochi,"Kochi ,Munnar ,Thekkady ,Alleppey ,Kovalam ",5,Beach  Tour Adventure Tea  Museum Nature ,4,23505,21860,7
+733,Memorable elhi Tour Package,6,5,New Delhi,"New Delhi ,Agra ",2,Qutub  Minar Taj  Mahal Historical India  ,3,16483,15000,9
+734,Splendid Gangtok Tour Package,5,4,Gangtok,Gangtok ,1,Mountains  Adventure Visit  Tsomgo  Lake Nature ,3,39160,36027,8
+735,Serene And Romantic Getaway To Alleppey,2,1,Alleppey,Alleppey ,1,  Arrival Water  Activities Sightseeing Adventure ,3,12825,11671,9
+736,Extravagant Family Holiday in Munnar Alleppey Kerala,7,6,Kochi,"Kochi ,Munnar ,Alleppey ,Kovalam ",4,Waterfalls Adventure Spice  Plantations Wildlife Beach ,3,19814,17634,11
+737,Incredible Agra Tour,3,2,Agra,Agra ,1,Mughal  Gardens Historical Local market Forts Sightseeing ,3,6593,6000,9
+738,Refreshing orth East Honeymoon,7,6,Shillong,"Shillong ,Cherrapunjee ,Guwahati ",3,Nature Hill station Sightseeing Water  Activities Dawki ,3,36813,33500,9
+739,Romantic Honeymoon,4,3,Goa,Goa ,1,Sightseeing Nature Cruise  Water  Activities Romantic ,2,32583,29325,10
+740,Exciting Kerala Munnar Package,3,2,Munnar,Munnar ,1,Visit to  Bird  Sanctuary Adventure Hill  Station ,3,9374,8530,9
+741,Goa Tour Package,4,3,Calangute,Calangute ,1,Adventure Water  Activities Best sellers Budget,3,11956,11000,8
+742,Top-Rated Madhya Pradesh Package,10,9,Indore,"Indore ,Maheshwar ,Ujjain ,Pachmarhi ,Jabalpur ,Khajuraho ",6,Temple Nature Sightseeing Historical City  Tour ,3,44505,40500,9
+743,Alluring Munnar Tour Package,4,3,Athirappilly,"Athirappilly ,Munnar ",2,Athirapally waterfalls Nature Munnar Adventure Echo  Point ,3,12304,11197,9
+744,Shirdi Trimbakeshwar Shani Shingnapur Tour Package,3,2,Shirdi,Shirdi ,1,Picturesque views Religious Temple Hill station Hills Sightseeing ,3,11290,10500,7
+745,Jim Corbett ational Park Honeymoon,4,3,Jim Corbett,"Jim Corbett ,Nainital ",2,Sightseeing Adventure Nature Lakes  Tour Hill station ,4,23333,21000,10
+746,Romantic Jammu and Kashmir Honeymoon,5,4,Srinagar,Srinagar ,1,Mountains  Sightseeing Water  Activities Adventure Nature ,3,24176,22000,9
+747,Chopta Camping Tour Package,2,1,Chopta,Chopta ,1,Mountains  Camping Laxman  Jhula Adventure Nature ,2,5645,5250,7
+748,Best-Selling Hyderabad Tour Package,4,3,Hyderabad,Hyderabad ,1,Film studios Adventure Shopping Nature Local market Historical ,2,18434,16775,9
+749,South India Luxury Tour Package,5,4,Ooty,"Ooty ,Kodaikanal ",2,Adventure Nature Water  Activities,4,35738,32879,8
+750,Best-Selling   Srinagar Package,6,5,Srinagar,"Srinagar ,Pahalgam ,Gulmarg ",3,Gardens Lakes Valleys Adventure Nature Hill station ,3,26087,24000,8
+751,"Soothing Kumarakom, Munnar, Alleppey Honeymoon",7,6,Kochi,"Kochi ,Munnar ,Thekkady ,Kumarakom ,Alleppey ",5,Water  Activities Jewish  Synagogue Mattancherry  Palace ,3,26023,22900,12
+752,Blissful Kerala Couple Tour Package,4,3,Munnar,"Munnar ,Alleppey ",2,Sightseeing Water  Activities Forest  Trek Adventure ,3,13741,12504,9
+753,Explore The Unexplored Today With A ortheast Tour,4,3,Shillong,"Shillong ,Cherrapunjee ",2,Airport  Transfers Adventure Sightseeing Nature Hill station ,3,17032,15499,9
+754,Kerala   Package,3,2,Munnar,Munnar ,1,Beach Adventure Castles Nature Backwaters Hill station ,3,7500,6975,7
+755,Kerala Houseboat Tour Package,5,4,Munnar,"Munnar ,Thekkady ,Alleppey ",3,Adventure Nature Sightseeing,4,13902,12825,8
+756,Picturesque Coorg Getaway,3,2,Coorg,Coorg ,1,  Arrival Adventure Sightseeing Nature Shopping ,3,18098,16469,9
+757,Alluring Leh Ladakh Family Tour Package,6,5,Leh,"Leh ,Nubra Valley ",2,Road  Trip Adventure Hill station Himalayas Nature ,2,27471,24999,9
+758,Captivating Coorg Sightseeing Tour Package,3,2,Coorg,Coorg ,1,Talakaveri Adventure Bhagamandala Nature Abbey  Falls ,2,15417,14029,9
+759,    Mahabaleshwar Honeymoon,4,3,lavasa,"lavasa ,Mahabaleshwar ",2,Hill  Station Adventure Nature Watersports Romantic ,4,15714,14300,9
+760,Splendid Gangtok Tour Package,3,2,Gangtok,Gangtok ,1,Waterfalls Adventure Visit  Tsomgo  Lake Nature ,5,26243,24406,7
+761,Miraculous Manali Sightseeing Tour Package,4,3,Manali,Manali ,1,Sightseeing Nature Vashisht  Village Adventure Solang  ,3,20571,18720,9
+762,Calming Kumarakom Houseboat Tour Package,3,2,Alleppey,Alleppey ,1,Backwaters Houseboat Nature Hill station Waterfall Sightseeing ,3,7664,6974,9
+763,Splendid haramshala Honeymoon,4,3,Dharamshala,Dharamshala ,1,  Arrival Hill station Local sightseeing Water  Activities ,3,26901,24480,9
+764,iscounted Ladakh Trip Package,6,5,Leh,"Leh ,Nubra Valley ,Pangong ",3,Adventure Hill station Nature,3,28709,25999,9
+765,Family Tour To Fanciful Rajasthan,3,2,Jaisalmer,Jaisalmer ,1,Lakes Folk  Music Forts Adventure Nature ,4,6593,6000,9
+766,Heavenly Odisha Tour Package,4,3,Bhubaneshwar,"Bhubaneshwar ,Puri ",2,Religious  Tour Cruises Cruise Nature Chilika  ,3,15824,14400,9
+767,iscover Leh-Ladakh Tour Package,10,9,Srinagar,"Srinagar ,Kargil ,Leh ,Pangong ,Nubra Valley ,sarchu ,Manali ",7,Road  Trip Adventure Himalayas Historical Nature ,3,58392,54499,7
+768,Magnificent Jaisalmer Tour Package,7,6,Jaipur,"Jaipur ,Bikaner ,Jaisalmer ,Jodhpur ",4,Historical  Sightseeing Adventure Desert  Safari Historical ,3,57142,51999,9
+769,Himachal Honeymoon,12,11,New Delhi,"New Delhi ,Shimla ,Manali ,Dharamshala ,Dalhousie ,Amritsar ",6,Hill station Adventure Nature Religious Water  Activities ,3,72395,65879,9
+770,A Fabulous Lansdowne Sightseeing Tour Package,3,2,Lansdowne,Lansdowne ,1,Gandhi  Chowk Adventure Nature Sightseeing Hill stationshopping,4,12692,11550,9
+771,elightful Uttarakhand Tour Package,8,7,Haridwar,"Haridwar ,Auli ,Kausani ,Mukteshwar ,Nainital ",5,Ganga  Aarti Adventure Sunset on  Nanda  Devi  ,3,30333,27300,10
+772,Captivating Himachal Tour Package,9,8,Shimla,"Shimla ,Manali ,Dharamshala ,Dalhousie ",4,Adventure Nature Hill station Paragliding Trekking Budget,4,39011,35500,9
+773,Amusing Ladakh Family Package,8,7,Leh,"Leh ,Nubra Valley ,Kargil ,Srinagar ",4,Family  Trip Hill station Pangong  Tso Nature ,2,36363,31999,12
+774,Spectacular Tamil adu Tour Package,3,2,Ooty,Ooty ,1,Nature Religious Sightseeing Adventure Hill  Station ,3,19439,17689,9
+775,Best Selling Getaways To Ooty For A Refreshing Break,3,2,Ooty,Ooty ,1,Lamâs  Rock Nature Ketty  Valley Adventure ,3,16418,15433,6
+776,    arjeeling Gangtok Couple Tour Package,5,4,Gangtok,"Gangtok ,Darjeeling ",2,Waterfalls Nature Tsomgo  Lake Adventure Romantic ,4,42037,39515,6
+777,Exciting Jaisalmer Honeymoon,7,6,Jaipur,"Jaipur ,Bikaner ,Jaisalmer ,Jodhpur ",4,Historical  Sites Adventure  Camel  Ride Nature ,3,19780,18000,9
+778,Golden Triangle Tour For     ,4,3,New Delhi,"New Delhi ,Agra ,Jaipur ",3,Nature Adventure Religious Budget,3,19565,18000,8
+779,Splendid Kumarakom Sightseeing Tour Package,5,4,Kovalam,"Kovalam ,Kumarakom ",2,Beaches Adventure Sightseeing Nature Backwaters Historical ,3,15234,13863,9
+780,Best-Ranked Goa Package,4,3,Goa,Goa ,1,Fort  Aguada Adventure Watersports Nature Boat  ,3,25806,24000,7
+781,Honeymoon,3,2,Goa,Goa ,1,Leisure Nature Ideal for couples Romantic Cruiseslandscape Budget,3,11234,9998,11
+782,Serene Uttarakhand Honeymoon,6,5,Mussoorie,"Mussoorie ,Jim Corbett ,Nainital ",3,Wildlife safari Lakes Sightseeing Adventure Wildlife Nature ,3,25384,23099,9
+783,Amazing Leh Ladakh Tour With Camp Stays (Ex Srinagar),8,7,Srinagar,"Srinagar ,Kargil ,Leh ,Pangong ,Nubra Valley ",5,Star  Gazing Nature Adventure Road  Trip ,3,42267,40999,3
+784,Parwanoo Tour For Panoramic Views,3,2,Parwanoo,"Parwanoo ,Kasauli ",2,Shopping Adventure Hill  Station Nature Sightseeing ,4,30065,27359,9
+785,A Rajasthan Summer Special Honeymoon,9,8,Jaipur,"Jaipur ,Bikaner ,Jaisalmer ,Jodhpur ,Udaipur ",5,Jaipur Historical Jaisalmer Adventure Jodhpur Nature ,3,21978,20000,9
+786,Mount Abu Tour Package,10,9,Jaipur,"Jaipur ,Bikaner ,Jaisalmer ,Jodhpur ,Udaipur ,Mount Abu ",6,Sightseeing Hill station Nature Religious Hills Budget,3,86363,75999,12
+787,Hampi Tour Package,3,2,Hampi,Hampi ,1,Sightseeing Adventure Nature Historicallandscapetemples Budget,3,15484,14090,9
+788,Amusing Rishikesh Mussoorie Honeymoon,3,2,Rishikesh,"Rishikesh ,Mussoorie ",2,Adventure Best sellers Sightseeing Nature Water  Activities ,2,10080,9450,6
+789,Ooty Honeymoon,3,2,Ooty,Ooty ,1,Scenic views Adventure Hill  Station Nature Mountains  ,3,12234,11500,6
+790,Picturesque Ranikhet Tour Package,3,2,Nainital,"Nainital ,Ranikhet ",2,Himalayas Adventure Sightseeing Nature Hill station Templeshopping ,2,9807,8924,9
+791,Shimla Manali haramshala alhousie Amritsar Tour Package,10,9,Shimla,"Shimla ,Manali ,Dharamshala ,Dalhousie ,Amritsar ",5,Wildlife Adventure Solang  Valley Nature Rohtang  ,3,29739,27360,8
+792,Goa Group Sightseeing Tour,3,2,Goa,Goa ,1,Adventure Water  Activities Beach Budget,3,9130,8400,8
+793,Captivating Uttarakhand Honeymoon,10,9,Rishikesh,"Rishikesh ,Mussoorie ,Jim Corbett ,Kausani ,Nainital ",5,Lakshman  Jhula Hill station Nilkantha  Mahadev Water  ,3,43269,39375,9
+794,Captivating Munnar Family Package,3,2,Cochin,"Cochin ,Munnar ",2,Arrival Hill station Rose  Garden Nature Mattupetty  ,3,8978,8170,9
+795,Wonderful Kerala Family Tour Package,5,4,Munnar,"Munnar ,Thekkady ,Alleppey ,Kochi ",4,Nature Wildlife safari Backwaters Shopping Hill station Cruises ,3,21837,17691,19
+796,Welcome To An Icy Wonderland,8,7,Katra,"Katra ,Pahalgam ,Gulmarg ,Srinagar ",4,Sightseeing Temples Glaciers Gardens Hill station Adventure ,3,30769,28000,9
+797,Best Selling Khandala Sightseeing Tours For A Perfect Leisure Break,3,2,Lonavala,Lonavala ,1,Historical  Sites Nature Hill  Station Adventure ,3,11538,10500,9
+798,Riveting Himachal Tour Package,11,10,Shimla,"Shimla ,Manali ,Dharamshala ,Dalhousie ,Amritsar ,New Delhi ",6,Sightseeing Adventure Temple Nature Churches Hill station ,3,46703,42500,9
+799,South Goa Honeymoon,4,3,Goa,Goa ,1,Aguada  Fort Nature Basilica of  Bom  Jesus ,4,19565,18000,8
+800,Pleasurable Mount Abu Honeymoon,3,2,Mount Abu,Mount Abu ,1,Hill  Station Nature Adventure Sightseeing Hill station ,4,8791,8000,9
+801,Lovable Goa Honeymoon,5,4,Goa,Goa ,1,Calangute  Beach Adventure Anjuna  Beach Nature ,3,31944,28750,10
+802,Best-Selling Kalimpong Package,3,2,Kalimpong,Kalimpong ,1,Hills Nature Mountains  Hill station Natural  Beauty ,4,9140,8500,7
+803,A Serene Kausani Tour Package,3,2,Kausani,Kausani ,1,Leisure  Day Adventure Sightseeing Hill station Natureshopping ,3,9807,8924,9
+804,Idyllic Himachal Honeymoon,11,10,New Delhi,"New Delhi ,Shimla ,Manali ,Dharamshala ,Dalhousie ",5,Sightseeing Shopping Solang  Valley Romantic Hill station ,3,66778,60768,9
+805,Spectacular Himachal Pradesh Tour,9,8,Shimla,"Shimla ,Manali ,Dharamshala ,Dalhousie ",4,Adventure  Activities Adventure Trekking Nature Sightseeing ,3,40034,36431,9
+806,Idyllic Ranikhet Honeymoon,6,5,Nainital,"Nainital ,Ranikhet ,Jim Corbett ",3,Chaubatia  Gardens Adventure Golf  Course Nature ,3,24807,22574,9
+807,Evergreen Romantic Excursion To Himachal,9,8,Shimla,"Shimla ,Manali ,Dharamshala ,Dalhousie ",4,Adventure Lakes Nature Paragliding Hill station River  ,3,41380,37656,9
+808,Fabulous Lansdowne Tour Package,2,1,Lansdowne,Lansdowne ,1,Nature Adventure Forest  Trail Hill station Boating ,3,8653,7874,9
+809,Uttarakhand Family Trip Package,3,2,Jim Corbett,Jim Corbett ,1,Adventure Nature Sightseeing,4,12666,9500,25
+810,Exotic And Romantic Andaman Tour,7,6,Port Blair,"Port Blair ,Havelock Island ",2,Port  Blair Cellular  Jail Cruises Havelock  ,3,42186,38389,9
+811,Enchanting alhousie Tour Package,4,3,Dalhousie,Dalhousie ,1,Ideal for friends Adventure Ideal for families Nature Hill  Station ,3,39040,35136,10
+812,An Adventurous Trip To Madhya Pradesh,3,2,Jabalpur,"Jabalpur ,Bandhavgarh ",2,Sightseeing Adventure Caves Nature Historical  Sites ,3,18571,16900,9
+813,Best Selling Agra Tour Package,2,1,Agra,Agra ,1,Sightseeing Nature Taj  Mahal Historicalmuseums Budget,3,8695,7999,8
+814,hanaulti Tour Package,2,1,Dhanaulti,Dhanaulti ,1,Adventure  Activities City  Tour Waterfalls Nature ,3,5026,4724,6
+815,South India Tour Package,4,3,Munnar,"Munnar ,Alleppey ",2,Adventure Nature Best sellers Budget,3,18759,17446,7
+816,Goa Honeymoon,6,5,Goa,Goa ,1,Nightlife Adventure Beaches Water  Activities Watersports ,4,30000,27600,8
+817,Andaman Honeymoon,5,4,Port Blair,"Port Blair ,Havelock ",2,Adventure Sightseeing Nature,4,24700,19627,21
+818,Alluring Kerala Honeymoon,4,3,Cochin,"Cochin ,Munnar ,Alleppey ",3,Spice plantations Valara  Falls Kerala- Tour- F ,3,30315,27587,9
+819,Exuberant Port Blair Package,6,5,Port Blair,Port Blair ,1,Samudrika  Museum Adventure Cellular  Jail  Nature ,4,26924,24501,9
+820,Get Amazed By The Enchanting Beauty Of Munnar,3,2,Cochin,"Cochin ,Munnar ",2,Valara Nature Eravikulam  National  Park Mattupetty  ,3,9619,8753,9
+821,Best elhi   Tour Package,2,1,New Delhi,New Delhi ,1,Connaught  Place Nature Akshardham  Temple Adventure ,3,10638,10000,6
+822,Adventurous Rajasthan Tour Package,5,4,Ranthambore,"Ranthambore ,sariska ,Jaipur ",3,Ranthambore  Fortgroup Bhangarh  Fort Sariska  Tiger  ,3,17830,15000,16
+823,"Marvelous Munnar, Alleppey, Kochi Honeymoon",5,4,Munnar,"Munnar ,Alleppey ,Kochi ",3,Tea  Museum Hill station Eravikulam  National  Park ,3,12216,10750,12
+824,"Hilly Escapades: arjeeling, Kalimpong & Gangtok Honeymoon",7,6,Darjeeling,"Darjeeling ,Gangtok ",2,Romantic Nature Mountains  Hill station Hot  Pick ,2,91990,80951,12
+825,A Wonderful Tour Package,3,2,Maheshwar,"Maheshwar ,Ujjain ",2,Omkareshwara  Temple Adventure Sightseeing Nature Forts ,3,14285,12999,9
+826,A Romantic Honeymoon,4,3,Munnar,"Munnar ,Cochin ",2,Sightseeing Nature Mattupetty  Dam Adventure Echo  ,3,14285,12999,9
+827,arjeeling Tour Package,3,2,Darjeeling,Darjeeling ,1,Mountains  Adventure City  Tour Nature Scenic views ,2,25030,23278,7
+828,Awe Inspiring Tawang Tour Package,8,7,Bhalukpong,"Bhalukpong ,Dirang ,Tawang ,Bomdila ,Guwahati ",5,Guwahati Adventure Dirang  Dzong Nature Tawang  ,3,35714,32500,9
+829,An Incredible Kochi Trip,7,6,Cochin,"Cochin ,Munnar ,Thekkady ,Alleppey ",4,Kundala  Lake Eravikulam  National  Park Mattupetty  ,3,21093,19195,9
+830,Exciting Auli Tour Package,6,5,Rishikesh,"Rishikesh ,Auli ,Haridwar ",3,Mountains  Ganga  Aarti Auli ropeway Water  Activities ,3,26250,23625,10
+831,South India Tour Package,7,6,Munnar,"Munnar ,Thekkady ,Alleppey ,Kovalam ,Thiruvananthapuram ",5,Adventure Nature Water  Activities Budget,3,28860,26840,7
+832,Rejuvenating Kerala Tour Package,5,4,Munnar,"Munnar ,Thekkady ,Alleppey ",3,Thekkady Adventure Munnar Nature Alleppey Water  ,3,14991,13642,9
+833,Andaman Tour Package,6,5,Port Blair,"Port Blair ,Havelock ,Neil Island ",3,Sightseeing Nature Adventure Water  Activities Island ,2,23419,21780,7
+834,An Idyllic Kochi Honeymoon,6,5,Munnar,"Munnar ,Thekkady ,Kumarakom ,Kochi ",4,Hotel check-in Adventure Breakfast Water  Activities Houseboat ,3,18163,16528,9
+835,Romantic orth East Honeymoon,4,3,Shillong,"Shillong ,Kaziranga ",2,Elephanta  Waterfalls Wildlife Lady  Hydari  Park ,2,18181,15999,12
+836,Enthralling Kodaikanal Tour Package,3,2,Kodaikanal,Kodaikanal ,1,Sightseeing Nature Waterfalls V A L ,3,14393,12810,11
+837,elightful Auli Sightseeing Tour Package,4,3,Auli,Auli ,1,Road  Trip Ropeway  Ride Maa  Dhari  ,3,15000,13650,9
+838,Enchanting Karnataka Honeymoon,6,5,Ooty,"Ooty ,Coorg ,Mysore ",3,Choice based activities Water  Activities Maharaja  Palace Adventure ,3,26142,23789,9
+839,Romantic Kashmir Honeymoon,7,6,Srinagar,"Srinagar ,Gulmarg ,Pahalgam ",3,Dal  Lake Best sellers Srinagar  Dam Sonmarg ,3,41969,38192,9
+840,Aurangabad Ajanta Ellora Sightseeing Tour Package,3,2,Aurangabad,Aurangabad ,1,Caves Historical National  Monument Religious Historical  ,3,11538,10500,9
+841,Exhilarating Kodaikanal Family Tour,3,2,Kodaikanal,Kodaikanal ,1,Sightseeing Hill station Road journey Wildlife Local market Adventure ,2,11395,10369,9
+842,Ravishing Kerala Tour Package,5,4,Munnar,"Munnar ,Alleppey ,Cochin ,Kochi ",4,Ideal for families Hill station Nature walks Wildlife Spice plantations Nature ,3,14983,13485,10
+843,Exquisite Karnataka Tour Package,4,3,Coorg,"Coorg ,Mysore ",2,Coorg sightseeing Historical Mysore  Wildlife Naturetemples Budget,3,19439,17689,9
+844,Kerala Honeymoon,7,6,Munnar,"Munnar ,Thekkady ,Alleppey ,Kovalam ",4,Culture Nature Hill station Scenic views Cultural Religious ,3,21739,20000,8
+845,Enamoring Alleppey-Kovalam Family Package,4,3,Alleppey,"Alleppey ,Kovalam ",2,Backwaters Beach Ideal for families Watersports Water  Activities ,3,10953,10077,8
+846,Sikkim Tour Package,7,6,Gangtok,"Gangtok ,Pelling ,Darjeeling ",3,Hills Adventure Lake Hill station Mountains  Waterfall ,3,80532,74089,8
+847,Memorable Family Excursion To Himachal,13,12,New Delhi,"New Delhi ,Shimla ,Manali ,Dharamshala ,Dalhousie ,Amritsar ,Chandigarh ",7,Sightseeing Adventure Horse  Riding Nature Hill station ,3,63164,57479,9
+848,orth India Tour Package,10,9,Shimla,"Shimla ,Manali ,Dharamshala ,Dalhousie ,Amritsar ",5,Adventure Nature Hill station Budget,3,32608,29999,8
+849,These alhousie Package,3,2,Dalhousie,Dalhousie ,1,Lake Adventure Golf  Course Hill station Paragliding ,3,29419,27360,7
+850,Mesmerising Uttarakhand Tour,4,3,Mussoorie,"Mussoorie ,Rishikesh ",2,Sightseeing Religious Rishikesh Nature Hills Hill station ,3,16153,14699,9
+851,Mesmerizing Manali Honeymoon,5,4,Manali,Manali ,1,Solang  Valley Nature Rohtang  Pass Water  ,3,25065,22809,9
+852,Mesmerising Meghalaya Sightseeing Tour Package,4,3,Shillong,"Shillong ,Mawlynnong ",2,Umiam  Lake Adventure Don  Bosco  Museum ,2,20329,18499,9
+853,    Chikmagalur Tour Package,3,2,Chikmagalur,Chikmagalur ,1,Nature Trekking Sightseeing Adventure Hill station Waterfall ,3,18037,16774,7
+854,A Stupendous Rishikesh Sightseeing Tour Package,4,3,Mussoorie,"Mussoorie ,Rishikesh ",2,Road  Trip Sightseeing Rishikesh Water  Activities ,3,16153,14699,9
+855,Kashmir Tour Package,5,4,Srinagar,"Srinagar ,Gulmarg ,Pahalgam ",3,Shikara  Ride Nature Gondola  Ride Adventure ,3,19129,17981,6
+856,A Thrilling Manali Tour Package,5,4,Manali,Manali ,1,Road  Trip Nature Himalayas Adventure Hill station ,4,25081,22824,9
+857,Thrilling haramshala Tour Package,4,3,Dharamshala,"Dharamshala ,Kangra ",2,Sightseeing Nature Himalayas Hill station Adventure Waterfall ,3,18880,16992,10
+858,Uttarakhand Limited Period Offer Tour Package,3,2,Mussoorie,Mussoorie ,1,Adventure Nature Hill station,3,13125,10500,20
+859,Get Enchanted By The Beauty Of Jaisalmer,3,2,Jaisalmer,Jaisalmer ,1,jaisalmer fort Religious Camel  Safari Historical Desert  ,3,17582,16000,9
+860,Sensational Ranthambore Sightseeing Tour Package,3,2,Ranthambore,Ranthambore ,1,Sightseeing Adventure Wildlife Historical Safarilandscape Budget,3,4945,4500,9
+861,Exotic Munnar Alleppey Kovalam Honeymoon,7,6,Cochin,"Cochin ,Munnar ,Alleppey ,Kovalam ",4,Adventure Sightseeing Cruises Nature Houseboat  Stay ,3,26452,24600,7
+862,Jaipur Udaipur Family Tour Package,5,4,Jaipur,"Jaipur ,Udaipur ",2,Adventure Nature Sightseeing,3,38788,32000,18
+863,Alleppey Houseboat Honeymoon,2,1,Alleppey,Alleppey ,1,shopping Adventure Nature,3,7581,6975,8
+864,Pleasurable orth East Tour Package,5,4,Shillong,"Shillong ,Cherrapunjee ,Guwahati ",3,Hill  Station Nature Sightseeing Hill station Caves ,3,27472,25000,9
+865,ive Into The Ethereal Beauty Of Shimla & Manali ,6,5,Shimla,"Shimla ,Manali ",2,Hill  Station Hill station Temple Nature Rohtang  ,4,65739,60480,8
+866,Experience The Bliss With Goa Tour,6,5,Goa,Goa ,1,Adventure  Activities Nature Sightseeing Adventure Temple ,4,21978,20000,9
+867,A Fantastic Tour Amid ature In Munnar,4,3,Munnar,Munnar ,1,Sightseeing Water  Activities Adventure  Activities Nature ,3,12304,11197,9
+868,Scintillating Uttarakhand Honeymoon,8,7,Haridwar,"Haridwar ,Mussoorie ,Ranikhet ,Kausani ,Nainital ",5,Temples Lal  Tibba Gun  Hill Adventure ,3,31153,28349,9
+869,A Fun Filled Trip To Madhya Pradesh,6,5,Jabalpur,"Jabalpur ,Kanha National Park ,Pachmarhi ",3,National  Park Nature Sightseeing  Tours Water  ,3,29780,27100,9
+870,Golden Triangle Tour Package,2,1,New Delhi,New Delhi ,1,Adventure Nature Religious Budget,3,11702,11000,6
+871,Alluring Assam Sightseeing Tour Package,6,5,Kaziranga,"Kaziranga ,Shillong ,Guwahati ",3,Sightseeing Historical Kaziranga  National  Park Adventure ,2,31318,28499,9
+872,Top-Selling Chennai Sightseeing Package,3,2,Chennai,"Chennai ,Mahabalipuram ",2,Temple Religiousart gallery Historical Marina  Beach Sightseeing ,3,16959,15433,9
+873,Spectacular Shillong Holiday Package,3,2,Shillong,Shillong ,1,Sightseeing Nature Temples Adventure Hills Hill station ,3,13736,12500,9
+874,Blissful Munnar Thekkady Alleppey Honeymoon,6,5,Munnar,"Munnar ,Thekkady ,Kumarakom ,Alleppey ",4,Hill station Houseboat  Stay Wildlife Beach  Walk ,3,20909,18400,12
